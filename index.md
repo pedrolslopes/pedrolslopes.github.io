@@ -1,37 +1,93 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-You can use the [editor on GitHub](https://github.com/pedrolslopes/pedrolslopes.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 
-### Markdown
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
 
-```markdown
-Syntax highlighted code block
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
 
-# Header 1
-## Header 2
-### Header 3
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
 
-- Bulleted
-- List
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
 
-1. Numbered
-2. List
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
 
-**Bold** and _Italic_ and `Code` text
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
+</head>
+<body style="background-color:white;">
 
-[Link](url) and ![Image](src)
-```
+<div class="navbar">
+  <a href="#home">Home</a>
+  <a href="#news">News</a>
+  <div class="dropdown">
+    <button class="dropbtn">Dropdown 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div> 
+</div>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<h3>Dropdown Menu inside a Navigation Bar</h3>
+<p>Hover over the "Dropdown" link to see the dropdown menu.</p>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pedrolslopes/pedrolslopes.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
