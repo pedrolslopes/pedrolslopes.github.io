@@ -28,14 +28,8 @@ feature_row:
     excerpt: "Browse my write-ups geared towards scientific outreach, tech-oriented executive education, and marketing of quantum computing products."
     btn_label: "Read More"
     btn_class: "btn--primary"
-
-tott:
-  - title: "Tools of the Trade"
-  - excerpt: "Producing intellectual content requires adequate tools to enhance workflow. Find here some tips and packages I find useful for myself. (software I like for workflow, Bloqade, mma (including group theory packages), Illustrator + lectures UCLA dude, etc)"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="tott" %}
