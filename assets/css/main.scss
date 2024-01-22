@@ -1,0 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+$doc-font-size: 1 !default;
+
+$link-color: #4E91A5;
+$linkedin-color: #171516 !default;
+$serif: 'Noto Serif', serif !default;
+$sans-serif: 'Noto Sans', 'Noto Sans JP', sans-serif !default;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials

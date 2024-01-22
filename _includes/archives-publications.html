@@ -1,0 +1,44 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: 'list' }}__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      <i class="fa-sharp fa-solid fa-chevron-right"></i> <b> {{ title }} </b>
+    </h2>
+
+    <p> 
+      {{post.authors}}
+
+      <span class="page__meta-sep"></span>
+      
+      {% assign date = post.date %}
+      <span class="page__meta-date">
+        <i class="far {% if include.type == 'grid' and document.read_time and document.show_date %}fa-fw {% endif %}fa-calendar-alt" aria-hidden="true"></i>
+        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+        <time datetime="{{ date | date_to_xmlschema }}">{{ date | date: date_format }}</time>
+      </span>
+    </p>
+
+    {% include topics-list.html %}
+    
+    {% if post.arxiv_link %}
+      <a href="{{ post.arxiv_link }}" class="btn btn--inverse"> <i class="fas fa-link" aria-hidden="true"></i> arXiv </a>
+    {% endif %}
+    {% if post.pub_link %}
+      <a href="{{ post.pub_link }}" class="btn btn--inverse">  <i class="fa-brands fa-readme"></i> {{post.magazine}} </a>
+    {% endif %}
+  </article>
+</div>

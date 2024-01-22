@@ -1,0 +1,8 @@
+# main links links
+main:
+  - title: "ABOUT ME"
+    url: /aboutme/
+  - title: "PORTFOLIO"
+    url: /portfolio/
+  - title: "BLOG"
+    url: /SPS/

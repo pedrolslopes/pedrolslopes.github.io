@@ -1,0 +1,26 @@
+# /_data/authors.yml
+
+plsl:
+  name             : "Pedro LS Lopes"
+  avatar           : "/assets/images/plsl.jpg"
+  bio              : "" #"A physicist, educator, and deep-generalist promoting a socially connected entrepreneurial spirit among scientists."
+  location         : "Boston"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:plopes@quera.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin" 
+      url: "https://linkedin.com/pedrolslopes"
+    - label: "Google scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com.br/citations?hl=en&view_op=list_works&gmla=AJsN-F7UVSUK_K6HbUFmP4qp7CSaDESXtbzzpPo9VFJTLDP6Sy3KdURzfiMvvmM3yc6jW1bjPj2c-gzYJdPzD2GelL1wG4R0sRi13igy4DlW6HsPDKZzloI&user=MGm_LUwAAAAJ"
+    - label: "arXiv"
+      icon: "fas fa-link"
+      url: "https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lopes%2C+P+L+S&terms-0-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/plquera"
+    - label: "test"
+      icon: "svg-inline--fa fa-w-14 fa-fw"
+      url: "www.uol.com"

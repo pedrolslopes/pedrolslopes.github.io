@@ -1,3 +1,131 @@
-theme: jekyll-theme-slate
-title: Pedro LS Lopes's homepage
-description: "Stay tuned for thoughts on physics, leadership and management in science, and the eventual cultural topic"
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+# Build settings
+#theme: minima
+theme: minimal-mistakes-jekyll
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin    : "dirt" # "defaul", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-feed
+  - "jekyll-material-icon-tag"
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Pedro Lopes's"
+subtitle                 : "Homepage and blog"
+name                     : "Pedro Leopoldo e Silva Lopes"
+description              : "My professional website and blog. Come here for news and discussions on physics, scientific management and leadership, and sustainable lifestyle."
+url                      : "pedrolslopes.github.io"
+email                    : pedrolslopes@gmail.com
+baseurl                  : "" # the subpath of your site, e.g. /blog
+github_username          : plquera
+words_per_minute         : 200
+
+# Site Author
+author:
+  name             : "Pedro LS Lopes"
+  avatar           : "/assets/images/plsl.jpg"
+  bio              : ""
+  location         : "Boston"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin" 
+      url: "https://linkedin.com/pedrolslopes"
+    - label: "Google-scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com.br/citations?hl=en&view_op=list_works&gmla=AJsN-F7UVSUK_K6HbUFmP4qp7CSaDESXtbzzpPo9VFJTLDP6Sy3KdURzfiMvvmM3yc6jW1bjPj2c-gzYJdPzD2GelL1wG4R0sRi13igy4DlW6HsPDKZzloI&user=MGm_LUwAAAAJ"
+    - label: "arXiv"
+      icon: "fas fa-link"
+      url: "https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lopes%2C+P+L+S&terms-0-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/plquera"
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      show_date: true
+      read_time: true
+      share: true
+      related: true
+      comments: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _outreach
+  - scope:
+      path: ""
+      type: outreach
+    values:
+      show_date: true
+      show_venue: true
+
+# Collections
+collections:
+  outreach:
+    output: false
+    show_date: true
+    read_time: false
+  publications:
+    output: false
+    show_date: true
+    read_time: false
+
+# Reading Files
+include:
+  - _pages
+
+
+    
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
