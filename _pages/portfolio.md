@@ -22,7 +22,7 @@ feature_row:
     url: "/education/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/popsci.png
+  - image_path: /assets/images/Popsci.png
     title: "Pop Sci"
     url: "/popsci/"
     excerpt: "Browse my write-ups geared towards scientific outreach, tech-oriented executive education, and marketing of quantum computing products."
