@@ -106,7 +106,11 @@ collections:
 include:
   - _pages
 
-
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-9M3MHEDEBH"
+    anonymize_ip: false # default
     
 
 # Exclude from processing.
