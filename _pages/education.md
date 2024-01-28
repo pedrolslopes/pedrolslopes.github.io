@@ -16,7 +16,7 @@ hackatons:
     image_path: /assets/images/MIT_iQuHack-Logo.jpg
     excerpt: 
             <ul> iQuHack, hosted yearly at MIT, is one of the largest and most successful quantum computing hackaton events in the world. Find here repos with challenge problems I have curated for various issues of this event,
-                <li> <a ref="https://github.com/iQuHACK/2023_QuEra">2023</a> </li>
+                <li> <a href="https://github.com/iQuHACK/2023_QuEra">2023</a> </li>
                 <li> 2024 (release soon) </li>
             </ul>
 
