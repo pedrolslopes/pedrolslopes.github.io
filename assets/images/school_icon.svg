@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   height="18"
-   viewBox="0 -960 880 720"
-   width="22"
+   height="8.6974497"
+   viewBox="0 -960 366.20838 347.89799"
+   width="9.1552095"
    version="1.1"
    id="svg11"
    sodipodi:docname="school_icon.svg"
@@ -26,9 +26,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="21.208333"
-     inkscape:cx="5.6817289"
-     inkscape:cy="8.9823183"
+     inkscape:zoom="36.244147"
+     inkscape:cx="4.2627572"
+     inkscape:cy="5.8906063"
      inkscape:window-width="1440"
      inkscape:window-height="747"
      inkscape:window-x="0"
@@ -36,6 +36,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg11" />
   <path
-     d="M 440,-240 160,-392 V -632 L 0,-720 440,-960 880,-720 v 320 h -80 v -276 l -80,44 v 240 z m 0,-332 274,-148 -274,-148 -274,148 z m 0,241 200,-108 V -590 L 440,-480 240,-590 v 151 z m 0,-241 z m 0,90 z m 0,0 z"
-     id="path9" />
+     d="M 183.49705,-626.35324 66.726198,-696.32381 V -806.80364 L 0,-847.31291 183.49705,-957.79275 366.9941,-847.31291 v 147.30645 H 333.631 v -127.05182 l -33.3631,20.25464 v 110.47983 z m 0,-152.83044 114.26862,-68.12923 -114.26862,-68.12924 -114.268618,68.12924 z m 0,110.94017 83.40775,-49.71593 v -69.51023 l -83.40775,50.63659 -83.40775,-50.63659 v 69.51023 z m 0,-110.94017 z m 0,41.42994 z m 0,0 z"
+     id="path9"
+     style="stroke-width:0.438152" />
 </svg>
