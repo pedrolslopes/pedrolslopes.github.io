@@ -112,6 +112,9 @@ analytics:
     tracking_id: "G-9M3MHEDEBH"
     anonymize_ip: false # default
     
+#Java scripts
+after_footer_scripts:
+  - /assets/js/alime.js
 
 # Exclude from processing.
 # The following items will not be processed, by default.
