@@ -7,10 +7,10 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-#gem "jekyll", "~> 4.3.2"
+gem "jekyll", "~> 4.3.2"
 gem "jekyll-remote-theme"
 
-gem "github-pages", "=228" group: :jekyll_plugins
+#gem "github-pages" group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 
 # Our Jekyll theme of choice
