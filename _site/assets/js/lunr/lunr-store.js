@@ -30,9 +30,9 @@ var store = [{
         "teaser": null
       },{
         "title": "We are finally starting!",
-        "excerpt":"This is it! I can’t believe I am finally starting this! Welcome to “Set Physics to Stun”, my blog on physics, scientific management, and other topics relevant for intellectually engaged folks. My goal is to promote better practices in scientific environments in general, improving inclusiveness, helping all the scientific community...","categories": [],
+        "excerpt":"This is it, I can’t believe I am finally starting this! Welcome to “Set Physics to Stun”, my blog on physics, scientific management, and other topics relevant for readers interested in intellectual discourse. My goal is to promote better practices in scientific environments in general, improving inclusiveness, helping all the...","categories": [],
         "tags": [],
-        "url": "/2023/11/28/welcome-to-jekyll.html",
+        "url": "/2024/02/11/SPTS_kickoff.html",
         "teaser": null
       },{
         "title": "Chiral filtering in graphene with coupled valleys",

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2023/11/28/welcome-to-jekyll.html</loc>
-<lastmod>2023-11-28T08:05:54-05:00</lastmod>
+<loc>http://localhost:4000/2024/02/11/SPTS_kickoff.html</loc>
+<lastmod>2024-02-11T08:05:54-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/aboutme/</loc>
@@ -27,9 +27,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/research/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/google-gtag.html</loc>
-<lastmod>2024-01-21T22:25:50-05:00</lastmod>
 </url>
 </urlset>
