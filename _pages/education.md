@@ -11,22 +11,19 @@ courses:
     excerpt: 'This is a course introducing quantum computing with neutral atoms. Rather than focusing on the basics of quantum computing, a subject well covered in many places, this material targets expert-level thinking for programming many-body quantum systems. Practice and operation is done via the *Bloqade* platform, with materials covering both the [**Julia**](https://queracomputing.github.io/Bloqade.jl/stable/) and [**Python**](https://bloqade.quera.com/latest/) (in development) versions of the package. The content is hosted on GitHub and was developed under my direction by me and colleagues from QuEra Computing. *Stay tuned as a virtual book version of this is under development.*'
     link: https://github.com/QuEraComputing/quera-education
 
-hackatons:
+hackathons:
   - title: <a href="https://www.iquise.mit.edu/iQuHACK" style="color:#343434">MIT iQuHack</a><a href="https://www.iquise.mit.edu/iQuHACK" style="color:#000000"><i class="fa-solid fa-link"></i></a>
     image_path: /assets/images/MIT_iQuHack-Logo.jpg
     excerpt: 
-            <ul> iQuHack, hosted yearly at MIT, is one of the largest and most successful quantum computing hackaton events in the world. Find here repos with challenge problems I have curated for various issues of this event,
+            <ul> iQuHack, hosted yearly at MIT, is one of the largest and most successful quantum computing hackathon events in the world. Find here repos with challenge problems I have curated for various issues of this event,
                 <li> <a href="https://github.com/iQuHACK/2023_QuEra">2023</a> </li>
-                <li> 2024 (release soon) </li>
+                <li> <a href="https://github.com/iQuHACK/2024_QuEra">2024 </a> </li>
             </ul>
-
-publications:
-  - excerpt: 'educational-oriented publications, IEEE paper and tutorial'
 ---
 
 {% include feature_row id="courses" type="left" %}
 
-{% include feature_row id="hackatons" type="left" %}
+{% include feature_row id="hackathons" type="left" %}
 
 # Further materials
 
