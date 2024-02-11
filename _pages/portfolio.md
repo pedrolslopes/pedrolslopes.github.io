@@ -15,7 +15,7 @@ feature_row:
     url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/iQuHack_2024.png
     alt: "placeholder image 2"
     title: "Education"
     excerpt: Visit for my courses and pedagogically-oriented content, today focused on quantum computing and influenced by best-practices from <a href="https://cwsei.ubc.ca/">CWSEI</a>.
