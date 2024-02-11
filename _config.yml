@@ -57,9 +57,12 @@ author:
     - label: "arXiv"
       icon: "fas fa-link"
       url: "https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lopes%2C+P+L+S&terms-0-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first"
-    - label: "GitHub"
+    - label: "GitHub (professional)"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/plquera"
+     - label: "GitHub (personal)"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/pedrolslopes
 
 
 # Defaults
