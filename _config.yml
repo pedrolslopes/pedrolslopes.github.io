@@ -60,7 +60,7 @@ author:
     - label: "GitHub (professional)"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/plquera"
-     - label: "GitHub (personal)"
+    - label: "GitHub (personal)"
       icon: "fab fa-fw fa-github"
       url: https://github.com/pedrolslopes
 
