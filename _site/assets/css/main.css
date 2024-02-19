@@ -617,7 +617,7 @@ audio:not([controls]) {
 }
 
 a {
-  color: #4E91A5;
+  color: #343434;
 }
 
 /* Apply focus state */
@@ -838,10 +838,10 @@ blockquote cite:before {
 
 /* links */
 a:visited {
-  color: #69a2b3;
+  color: #525252;
 }
 a:hover {
-  color: #3b6d7c;
+  color: #272727;
   outline: 0;
 }
 
@@ -937,7 +937,7 @@ figcaption a {
   transition: all 0.2s ease-in-out;
 }
 figcaption a:hover {
-  color: #3b6d7c;
+  color: #272727;
 }
 
 /* Fix IE9 SVG bug */
@@ -1556,15 +1556,15 @@ th {
   color: #fff;
 }
 .btn--linkedin {
-  background-color: #171516;
+  background-color: #007bb6;
   color: #fff;
 }
 .btn--linkedin:visited {
-  background-color: #171516;
+  background-color: #007bb6;
   color: #fff;
 }
 .btn--linkedin:hover {
-  background-color: #121112;
+  background-color: #006292;
   color: #fff;
 }
 .btn--block {
@@ -2093,7 +2093,7 @@ blockquote.notice--danger {
   border-radius: 0;
 }
 .pagination li a:hover {
-  color: #3b6d7c;
+  color: #272727;
 }
 .pagination li a.current, .pagination li a.current.disabled {
   color: #fff;
@@ -3277,7 +3277,7 @@ body:hover .visually-hidden button {
 }
 .social-icons .fa-linkedin,
 .social-icons .fa-linkedin-in {
-  color: #171516;
+  color: #007bb6;
 }
 .social-icons .fa-mastodon,
 .social-icons .fa-mastodon-square {
@@ -3887,7 +3887,7 @@ body {
 }
 .page__taxonomy-item:hover {
   text-decoration: none;
-  color: #3b6d7c;
+  color: #272727;
 }
 
 .taxonomy__section {
@@ -5075,6 +5075,30 @@ body {
   .adsbygoogle {
     display: none !important;
     height: 1px !important;
+  }
+}
+.page__content p,
+.page__content li,
+.page__content dl {
+  font-size: 0.75em;
+}
+
+html {
+  font-size: 12px;
+}
+@media (min-width: 48em) {
+  html {
+    font-size: 14px;
+  }
+}
+@media (min-width: 64em) {
+  html {
+    font-size: 16px;
+  }
+}
+@media (min-width: 80em) {
+  html {
+    font-size: 18px;
   }
 }
 

@@ -5,12 +5,34 @@ search: false
 
 @charset "utf-8";
 
-$doc-font-size: 1 !default;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.page__content {
+    p,
+    li,
+    dl {
+      font-size: 0.75em;
+    }
+  }
+
+html {
+    font-size: 12px; // originally 16px
+    @include breakpoint($medium) {
+        font-size: 14px; // originally 18px
+    }
+
+    @include breakpoint($large) {
+        font-size: 16px; // originally 20px
+    }
+
+    @include breakpoint($x-large) {
+        font-size: 18px; // originally 22px
+    }
+}
 
 $link-color: #4E91A5;
 $linkedin-color: #171516 !default;
 $serif: 'Noto Serif', serif !default;
 $sans-serif: 'Noto Sans', 'Noto Sans JP', sans-serif !default;
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials

@@ -35,6 +35,12 @@ var store = [{
         "url": "/2024/02/11/SPTS_kickoff.html",
         "teaser": null
       },{
+        "title": "Scientifically Speaking: Trust, Policy, and a Dash of Pre-Prints",
+        "excerpt":"While I was working on a much more technical first post, Nature released a News article on a core raison-d’être of this blog: the trust of public in scientists, scientist engagement with policy making, and their involvement with society. So, let’s take this opportunity to delve into this topic. The...","categories": [],
+        "tags": [],
+        "url": "/2024/02/18/Science_comms.html",
+        "teaser": null
+      },{
         "title": "Chiral filtering in graphene with coupled valleys",
         "excerpt":" ","categories": [],
         "tags": ["Graphene","Quantum field theory"],
