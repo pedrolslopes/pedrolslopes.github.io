@@ -41,6 +41,12 @@ var store = [{
         "url": "/2024/02/18/Science_comms.html",
         "teaser": null
       },{
+        "title": "Policy sabbaticals, a bit of Dworkin, a bit of Dweck",
+        "excerpt":"As I keep trying to create technical content, columns on Nature continue to interrupt me. Seems like these really are good sources of inspiration. This time the topic is “what to do in a sabbatical year”? Traditionally, tenured university professors receive support - partial or total - to spend periods...","categories": [],
+        "tags": [],
+        "url": "/2024/02/25/Policy_sabbatical.html",
+        "teaser": null
+      },{
         "title": "Chiral filtering in graphene with coupled valleys",
         "excerpt":" ","categories": [],
         "tags": ["Graphene","Quantum field theory"],

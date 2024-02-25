@@ -2,7 +2,7 @@
 layout: posts
 title:  "We are finally starting!"
 date:   2024-02-11 8:05:54 -0500
-
+class: wide
 ---
 
 This is it, I can't believe I am finally starting this! Welcome to "Set Physics to Stun", my blog on physics, scientific management, and other topics relevant for readers interested in intellectual discourse. 
