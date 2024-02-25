@@ -1556,15 +1556,15 @@ th {
   color: #fff;
 }
 .btn--linkedin {
-  background-color: #007bb6;
+  background-color: #171516;
   color: #fff;
 }
 .btn--linkedin:visited {
-  background-color: #007bb6;
+  background-color: #171516;
   color: #fff;
 }
 .btn--linkedin:hover {
-  background-color: #006292;
+  background-color: #121112;
   color: #fff;
 }
 .btn--block {
@@ -3277,7 +3277,7 @@ body:hover .visually-hidden button {
 }
 .social-icons .fa-linkedin,
 .social-icons .fa-linkedin-in {
-  color: #007bb6;
+  color: #171516;
 }
 .social-icons .fa-mastodon,
 .social-icons .fa-mastodon-square {

@@ -5,6 +5,7 @@ search: false
 
 @charset "utf-8";
 
+$linkedin-color: #171516 !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -33,6 +34,5 @@ html {
 }
 
 $link-color: #4E91A5;
-$linkedin-color: #171516 !default;
 $serif: 'Noto Serif', serif !default;
 $sans-serif: 'Noto Sans', 'Noto Sans JP', sans-serif !default;
