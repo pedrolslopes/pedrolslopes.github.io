@@ -18,11 +18,11 @@ I do have a feeling that many of my friends in the physical sciences might belie
 
 This past week, one of my academic friends sent me a message containing the following screenshot from a conversation in the X platform:
 
-![image-center](/assets/images/Galitski_quantum_hype.jpg){: .align-center style="width: 60%;"}
+![image-center](/assets/images/Galitski_quantum_hype.jpeg){: .align-center style="width: 45%;"}
 
 In quantum computing the complaint of hype and misdirected resources is a constant topic. The importance of government in funding sustained research and development, but also in the commercialization of quantum technologies cannot be overstated. Nor should be its role in fostering connections between researchers an private industry, which indeed are very healthy. Creating career opportunities for youth among the physical sciences is one of my favorite aspects of the quantum tech industry. But this stereotypical attitude of academics seeing politicians as incapable of having meaningful conversations on a serious topic of mutual interest, does not help. 
 
-I'd like to take a more <a href="https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth_mindsets">growth mindset</a> position and say there is no "catch-22". With enough time and attention, and the right environment, I think it is very possible to help inform policy-makers on physical sciences and quantum technologies. Following Jordan Dworkin's proposition and promoting more Tours of Service among the physics community seems a good idea for that.
+I'd like to take a position more aligned with a <a href="https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth_mindsets">growth mindset</a> and say there is no "catch-22". With enough time and attention, and the right environment, I think it is very possible to help inform policy-makers on physical sciences and quantum technologies. Following Jordan Dworkin's proposition and promoting more Tours of Service among the physics community seems a good idea for that.
 
 And without trying to open a can of worms, I don't want to miss the opportunity here: the vast majority of the members of the quantum tech community I know are seriously engaged in distributing sound information, opinions, and recommendations. I would not deny having seen hype, but I don't see it being systematic or, so far, damaging. As far as business goes, commercialization of quantum tech is not an easy subject and the whole industry is working to find the sustainable paths to success.
 
