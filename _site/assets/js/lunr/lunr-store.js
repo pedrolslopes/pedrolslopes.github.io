@@ -47,6 +47,12 @@ var store = [{
         "url": "/2024/02/25/Policy_sabbatical.html",
         "teaser": null
       },{
+        "title": "Showcasing Emergence in Scientific Collaborations",
+        "excerpt":"This post tells a bit of my own professional story as I left life as a pure researcher, and then moves toward introducing my first managerial tool for scientific collaborations. Hope you enjoy it! It was early 2020, before the surprising upheaval of life caused by Covid-19. I had found...","categories": [],
+        "tags": [],
+        "url": "/2024/03/16/Pub_network.html",
+        "teaser": null
+      },{
         "title": "Chiral filtering in graphene with coupled valleys",
         "excerpt":" ","categories": [],
         "tags": ["Graphene","Quantum field theory"],

@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-25T16:31:37-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pedro Lopes’s</title><subtitle>My professional website and blog. Come here for news and discussions on physics, scientific management and leadership, and sustainable lifestyle.</subtitle><author><name>Pedro LS Lopes</name></author><entry><title type="html">Policy sabbaticals, a bit of Dworkin, a bit of Dweck</title><link href="http://localhost:4000/2024/02/25/Policy_sabbatical.html" rel="alternate" type="text/html" title="Policy sabbaticals, a bit of Dworkin, a bit of Dweck" /><published>2024-02-25T08:05:54-05:00</published><updated>2024-02-25T08:05:54-05:00</updated><id>http://localhost:4000/2024/02/25/Policy_sabbatical</id><content type="html" xml:base="http://localhost:4000/2024/02/25/Policy_sabbatical.html"><![CDATA[<p>As I keep trying to create technical content, columns on Nature continue to interrupt me. Seems like these really are good sources of inspiration.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-17T22:23:22-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pedro Lopes’s</title><subtitle>My professional website and blog. Come here for news and discussions on physics, scientific management and leadership, and sustainable lifestyle.</subtitle><author><name>Pedro LS Lopes</name></author><entry><title type="html">Showcasing Emergence in Scientific Collaborations</title><link href="http://localhost:4000/2024/03/16/Pub_network.html" rel="alternate" type="text/html" title="Showcasing Emergence in Scientific Collaborations" /><published>2024-03-16T09:05:54-04:00</published><updated>2024-03-16T09:05:54-04:00</updated><id>http://localhost:4000/2024/03/16/Pub_network</id><content type="html" xml:base="http://localhost:4000/2024/03/16/Pub_network.html"><![CDATA[<p><em>This post tells a bit of my own professional story as I left life as a pure researcher, and then moves toward introducing my first managerial tool for scientific collaborations. Hope you enjoy it!</em></p>
+
+<p>It was early 2020, before the surprising upheaval of life caused by Covid-19. I had found my first non-research job: to manage and pave the way for the success of the <a href="https://qmi.ubc.ca/">Stewart Blusson Quantum Matter Institute Grand Challenges</a> research program. This program aimed to foster coherence in research among the institute’s members, prioritizing and focusing research topics for greater impact and value for the community.</p>
+
+<p>The origin of this Grand Challenges program can be traced back to discussions among the Institute’s scientific advisory board. Simplifying a complex story, these advisers questioned why significant funds should be injected into a thematic institute if it merely resulted in already established research groups continuing to work independently. Essentially, there was a view that merely uniting independent researchers under a well-funded endeavor wasn’t enough to drive transformative change and leadership. To make the institute an undisputed global leader in its field. Many of its groups were already adequately funded, so achieving such scientific leadership was seen to require a coherent, laser-focused approach on the most impactful work possible.</p>
+
+<p>Echoing Phil Anderson’s timeless <a href="https://www.science.org/doi/10.1126/science.177.4047.393">“more is different”</a>, widely influential across the quantum matter community, the sentiment was that to achieve scientific prominence and success, the “institute must be more than the sum of its parts.” Primary Investigators were brought together, themes were selected, and charters of work and project proposals began to take shape. I was brought in to oversee the management of the program.</p>
+
+<p>Program and project management in the physics community are not extensively documented, and tools and methodologies are not well developed. This is partly because deliverables tend to be uncertain, making it tricky to track progress and evaluate performance using formal approaches. When I began working on the Grand Challenges, I underwent professional training in project management. However, many concepts were not directly transferable. Moreover, attempting to impose standards developed by outsider communities on academic groups with different pressures and goals was likely to backfire and generate conflict. Nevertheless, I was enthusiastic about the opportunity to innovate how research could be conducted and managed.</p>
+
+<p>As upper management pressured the Grand Challenges team to create deliverables and performance indicators, I decided to revisit the program’s origin. The success of the work should indicate that the program was fostering coherence within the institute, ensuring it was more than the sum of its individual parts. Being a mathy guy and having a career centered around correlated matter, I embraced ambition. I conceived an academic social network for the Grand Challenges Principal Investigators. This tool, I believed, would be visually impactful for reporting - facilitating communication with donors and advisory boards - and enable precise course corrections and policy changes to achieve success. Moreover, its geeky appeal made it likely to be embraced by academics without resistance to managerial practices, which was a personal favorite aspect.</p>
+
+<p>So what did this look like? Here goes an example:</p>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/network_plot.png" title="pub network">
+          <img src="/assets/images/network_plot.png" alt="graph" />
+      </a>
+    
+  
+  
+</figure>
+
+<p>I assigned professors in a given project academic names (Professor A, B, etc., in this example) and represented them as nodes in a graph (the blue disks). With the help of a colleague, I obtained a database containing all the papers of the institute’s members. I then wrote a script to filter this database, creating a list of pairs of names whenever two professors co-authored a scientific publication. These pairs were represented as red edges on the graph, symbolizing collaboration—instances where individual members joined efforts to address a single problem. To depict the strength of collaboration, the thickness of the red connections was made proportional to the number of papers two researchers co-authored. The more papers they shared, the stronger their collaboration!</p>
+
+<p>Now how could I create a sense of “where this program is going”? I decided to examine sub-projects proposed in the program. As these involved multiple groups, I created a list of “collaborations in development.” If an edge didn’t exist between two professors but collaboration was underway, I depicted it as a dashed line. The web of dashed lines indicated the program’s capacity to foster a more robust collaborative network, paving a path to make the institute “more than the sum of its parts.” For reporting and tracking, once a publication came together, boom! The list of publications could be updated, the dashed line would become red, and one could visualize the change in the network directly.</p>
+
+<p>Of course, these are all qualitative ways of looking at the problem. But again, graph theory is a well-established branch of mathematics. There are several quantities one can use to obtain quantitative information on the state of one such network. Here go a few I like:</p>
+
+<ul>
+  <li>
+    <p>Degree Distribution: the distribution of degrees (number of connections) can provide insights into the connectivity of the network. In our academic network, we would be looking at the number of collaborations each professor has.</p>
+  </li>
+  <li>Centrality Measures: Centrality measures identify the most important nodes in the network. Some measures of centrality include:
+    <ul>
+      <li>Degree Centrality: the number of connections each node has.</li>
+      <li>Betweenness Centrality: the number of shortest paths that pass through a node. This indicates the node’s importance as a bridge between different parts of the network.</li>
+      <li>Closeness Centrality: this measures how close a node is to all other nodes in the network, indicating its ability to quickly  spread information.</li>
+      <li>Clustering Coefficient: the degree to which nodes tend to cluster together. In our research network, this indicates the presence of tightly-knit research sub-groups.</li>
+    </ul>
+  </li>
+  <li>Path Length Distribution: the distribution of shortest path lengths between nodes, which provides insights into the overall structure and connectivity of the network.</li>
+</ul>
+
+<p>Reports with these data could then be generated for analysis. I habitually provided reports on the “current state” of the network (i.e., without the dashed lines), and “target state” (including the dashed lines) for comparison. These can be plotted in bar charts and set up thes side-by-side for analysis. For example, for the mock data of the graph above, we would have</p>
+
+<figure class="half ">
+  
+    
+      <a href="/assets/images/Academic%20Network%20Current%20State.png" title="report current">
+          <img src="/assets/images/Academic%20Network%20Current%20State.png" alt="report current" />
+      </a>
+    
+  
+    
+      <a href="/assets/images/Academic%20Network%20Target%20State.png" title="report target">
+          <img src="/assets/images/Academic%20Network%20Target%20State.png" alt="report target" />
+      </a>
+    
+  
+  
+</figure>
+
+<p>Though there’s room for improvement—for example, plotting both on the same axes for easier comparison—the tool proved effective. It not only structured early program reporting but also aided researchers in grant applications, helping secure nearly seven-figure funding. While the solidity of research programs was the main driver of such success, I am happy I could play a small part in this achievement.</p>
+
+<p>Managerial teams are not always equipped to program tools like this, nor to determine suitable graph-based metrics. I’ve heard that reproducing what I initiated with these networks became challenging after my departure from the Stewart Blusson Quantum Matter Institute. Recently, with renewed energy, I revisited my code and polished it to make it easier to reuse and share. If you are interested in trying it, you can find what I hope is a straightforward codebase on <a href="https://www.github.com/pedrolslopes/publishing_network">this Github repo</a>. Once you’ve successfully generated your data, running</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python research_network_analyzer.py
+</code></pre></div></div>
+
+<p>will generate figures of your network, plots with data analysis, and text files with numerical report data for both the current and target states of your network. As mentioned above, there is space for improvement, but I hope this can now be useful to more people!</p>
+
+<p>And with that, the story—or perhaps this chapter—ends. The Grand Challenges program is ongoing, and research there continues to thrive. Many former researchers who participated in the program have moved on to prominent positions in academia and industry. Likewise, my journey to improve managerial practices in research environments continues to evolve.</p>]]></content><author><name>Pedro LS Lopes</name></author><summary type="html"><![CDATA[This post tells a bit of my own professional story as I left life as a pure researcher, and then moves toward introducing my first managerial tool for scientific collaborations. Hope you enjoy it!]]></summary></entry><entry><title type="html">Policy sabbaticals, a bit of Dworkin, a bit of Dweck</title><link href="http://localhost:4000/2024/02/25/Policy_sabbatical.html" rel="alternate" type="text/html" title="Policy sabbaticals, a bit of Dworkin, a bit of Dweck" /><published>2024-02-25T08:05:54-05:00</published><updated>2024-02-25T08:05:54-05:00</updated><id>http://localhost:4000/2024/02/25/Policy_sabbatical</id><content type="html" xml:base="http://localhost:4000/2024/02/25/Policy_sabbatical.html"><![CDATA[<p>As I keep trying to create technical content, columns on Nature continue to interrupt me. Seems like these really are good sources of inspiration.</p>
 
 <p>This time the topic is “what to do in a sabbatical year”?</p>
 
@@ -6,15 +80,15 @@
 
 <p>In a <a href="https://www.nature.com/articles/d41586-024-00479-w">World View</a> column last week, Jordan Dworkin provides an uncommon suggestion: spend time in government. I won’t be repetitive and reproduce all comments and reasoning made in the article: they are very sound and meaningful. I strongly recommend my colleagues who work at universities and research institutes to read this article and look kindly at the points made.</p>
 
-<p>I do have a feeling that many of my friends in the physical sciences might believe that the impact they can make in policy matters less than that of health and social scientists. So, let me provide a clear example of the type of frustration this kind of attitude brings back to the community.</p>
+<p>I do, however, have a feeling that many of my friends in the physical sciences might believe that the impact they can make in policy matters less than that of health and social scientists. So, let me provide a clear example of the type of frustration this kind of attitude can bring back to the community.</p>
 
 <p>This past week, one of my academic friends sent me a message containing the following screenshot from a conversation in the X platform:</p>
 
 <p><img src="/assets/images/Galitski_quantum_hype.jpeg" alt="image-center" class="align-center" style="width: 45%;" /></p>
 
-<p>In quantum computing the complaint of hype and misdirected resources is a constant topic. The importance of government in funding sustained research and development, but also in the commercialization of quantum technologies cannot be overstated. Nor should be its role in fostering connections between researchers an private industry, which indeed are very healthy. Creating career opportunities for youth among the physical sciences is one of my favorite aspects of the quantum tech industry. But this stereotypical attitude of academics seeing politicians as incapable of having meaningful conversations on a serious topic of mutual interest, does not help.</p>
+<p>In quantum computing, the complaint of hype and misdirected resource allocation is a constant topic. The importance of government in funding sustained research and development, but also in helping fund the commercialization of quantum technologies, cannot be overstated. Nor should be its role in fostering the relations between researchers and private industry, which indeed are very healthy. Creating career opportunities for youth among the physical sciences is one of my favorite aspects of the quantum tech industry. But this stereotypical attitude of academics seeing politicians as incapable of having meaningful conversations on topics with technical depth, does not help.</p>
 
-<p>I’d like to take a position more aligned with a <a href="https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth_mindsets">growth mindset</a> and say there is no “catch-22”. With enough time and attention, and the right environment, I think it is very possible to help inform policy-makers on physical sciences and quantum technologies. Following Jordan Dworkin’s proposition and promoting more Tours of Service among the physics community seems a good idea for that.</p>
+<p>I’d like to take a position more aligned with a <a href="https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth_mindsets">growth mindset</a> and say there is no “catch-22”. No conversation I have ever had with politically engaged folks suggests that. With enough time and attention, and the right environment, I think it is very possible to help inform policy-makers on physical sciences and quantum technologies. Following Jordan Dworkin’s proposition and promoting more Tours of Service among the physics community seems a good starting idea for that.</p>
 
 <p>And without trying to open a can of worms, I don’t want to miss the opportunity here: the vast majority of the members of the quantum tech community I know are seriously engaged in distributing sound information, opinions, and recommendations. I would not deny having seen hype, but I don’t see it being systematic or, so far, damaging. As far as business goes, commercialization of quantum tech is not an easy subject and the whole industry is working to find the sustainable paths to success.</p>
 
