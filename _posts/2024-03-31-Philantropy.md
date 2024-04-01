@@ -18,7 +18,10 @@ As the article suggests, this plot tells a story: historically, contributions fr
 
 Private donations can positively influence science in many ways. The process of spending resources can be less bureaucratic and more flexible. It can more easily allow pivoting research directions – something challenging to do mid-grant when specific deliverables are requested during project planning – and can provide a pathway for scientists to transition to new areas of focus. This reconversion is typically difficult to achieve, as public funds tend to require a prior reputation in a field for researchers to successfully obtain funding. The article also mentions how the flexibility of philanthropic funding can foster more risk-taking in science, a [subject of intense discussion](https://www.nature.com/articles/d41586-024-00929-5?utm_source=Live+Audience&utm_campaign=45bbc57f69-briefing-dy-20240326&utm_medium=email&utm_term=0_b27a691814-45bbc57f69-52510728). Finally, private funds can complement other sources; for example, some sources can address only capital or infrastructure expenditures, while private funds tend to cover personnel and operations – a perfect match!
 
-However, not everything is perfect and easy. The article gathers advice for caution from scientists previously successful at garnering donor funding. These include being mindful of money that is too restrictive, donors who expect too much recognition, and donors who feel they have the right to call the shots (like on hiring decisions).
+However, not everything is perfect and easy. The article gathers advice for caution from scientists previously successful at garnering donor funding. These include being mindful of 
+* money that is too restrictive, 
+* donors who expect too much recognition, 
+* and donors who feel they have the right to call the shots (like on hiring decisions).
 
 Another issue I see: as the article mentions, securing philanthropic funds requires a good dose of personal touch and relationships. Access to the right communities and the type of engagement and relationships developed depend heavily on opportunities and culture. This may pose a barrier for individuals from minority groups and affect diversity, equity, and inclusion outcomes.
 
