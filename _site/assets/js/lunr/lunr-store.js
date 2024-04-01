@@ -53,6 +53,12 @@ var store = [{
         "url": "/2024/03/16/Pub_network.html",
         "teaser": null
       },{
+        "title": "Philanthropy in the Landscape of Science Funding",
+        "excerpt":"A busy week of teaching and preparing for an upcoming trip to Quebec to witness the eclipse left little time for blogging. Nonetheless, I’ve been mulling over some discussion-worthy topics! The different funding mechanisms for science, both in academia and elsewhere, have been on my mind lately. This reminded me...","categories": [],
+        "tags": [],
+        "url": "/2024/03/31/Philantropy.html",
+        "teaser": null
+      },{
         "title": "Chiral filtering in graphene with coupled valleys",
         "excerpt":" ","categories": [],
         "tags": ["Graphene","Quantum field theory"],

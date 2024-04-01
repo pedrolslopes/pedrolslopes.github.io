@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Deep Pockets, Flying Rockets: Philanthropy in the Landscape of Science Funding"
+title:  "Philanthropy in the Landscape of Science Funding"
 date:   2024-03-31 8:05:54 -0500
 class: wide
 ---
@@ -10,7 +10,7 @@ The different funding mechanisms for science, both in academia and elsewhere, ha
 
 The [first article](https://pubs.aip.org/physicstoday/article/75/11/24/2848605/Philanthropy-plays-a-growing-role-in-funding-US) from Physics Today analyzes the growing influence of private donors on the physical sciences and contrasts this source with other traditional ways to fund science, namely federal grants. The article features an intriguing figure, which, with a bit of digging, can be traced back to the strategic planning of the [Science Philanthropy Alliance](https://sciencephilanthropyalliance.org/#) organization. Since the document is public, I've reproduced the corresponding figure here:
 
-![image-center](/assets/images/sciencephilalliance.png){: .align-center style="width: 45%;"}
+![image-center](/assets/images/sciencephilalliance.png){: .align-center style="width: 70%;"}
 
 The red curve represents sources of philanthropic origin via non-profit foundations and donations to higher education institutions (and their endowment funds). The contribution from philanthropic sources may be even higher, as this data excludes individual donors.
 
