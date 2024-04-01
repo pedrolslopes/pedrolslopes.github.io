@@ -2,7 +2,7 @@
 layout: posts
 title:  "Philanthropy in the Landscape of Science Funding"
 date:   2024-03-31 8:05:54 -0500
-class: wide
+classes: wide
 ---
 A busy week of teaching and preparing for an upcoming trip to Quebec to witness the eclipse left little time for blogging. Nonetheless, I've been mulling over some discussion-worthy topics!
 
