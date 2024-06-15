@@ -1,5 +1,5 @@
 ---
-title: Pop-sci write-ups
+title: Pop-sci write-ups and interviews
 layout: outreach
 permalink: /popsci/
 collection: outreach

@@ -18,19 +18,7 @@ hackathons:
             <ul> iQuHack, hosted yearly at MIT, is one of the largest and most successful quantum computing hackathon events in the world. Find here repos with challenge problems I have curated and mentored for various issues of this event,
                 <li> <a href="https://github.com/iQuHACK/2023_QuEra">2023</a> </li>
                 <li> <a href="https://github.com/iQuHACK/2024_QuEra">2024 </a> </li>
-            </ul>
-  - title: <a href="https://yquantum.info/" style="color:#343434">MIT iQuHack</a><a href="https://yquantum.info/" style="color:#000000"><i class="fa-solid fa-link"></i></a>
-    image_path: /assets/images/Yale_yquantum-Logo.png
-    excerpt: 
-            <ul> YQuantum is Yale University's quantum computing hackaton, and debutted in 2024. Find here repos with challenge problems I have curated and mentored for various issues of this event,
-                <li> <a href="https://dorahacks.io/hackathon/yquantum2024/quera-challenge-track">2023</a> </li>
-            </ul>
-    - title: <a href="https://qec.amiv.ethz.ch/qhack24/" style="color:#343434">MIT iQuHack</a><a href="https://qec.amiv.ethz.ch/qhack24/" style="color:#000000"><i class="fa-solid fa-link"></i></a>
-    image_path: /assets/images/Yale_yquantum-Logo.png
-    excerpt: 
-            <ul> ETH Quantum Hackathon is hosted yearly at ETH Zurich Hoggenberg's campus. In this event I usually collaborate with quantum computing end-user companies, such as Moody's analytics, for challenge curation and mentoring. Find below some materials of past events
-                <li> <a href="https://github.com/carmenrv/qechackethz24/">2023</a> </li>
-            </ul>          
+            </ul>        
 ---
 
 {% include feature_row id="courses" type="left" %}
