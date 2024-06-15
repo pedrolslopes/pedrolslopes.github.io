@@ -71,12 +71,6 @@ var store = [{
         "url": "/2024/04/21/PhD_assessment.html",
         "teaser": null
       },{
-        "title": "Words of Wisdom #1",
-        "excerpt":"Starting a new blog series at Set Physics to Stun! While most of my posts are based on my own experience, observations, or creations in science and scientific management, I wanted to bring in some opinions beyond my biases. So hereby I start “Words of Wisdom”, a blogging series where...","categories": [],
-        "tags": [],
-        "url": "/2024/05/26/WoW_Shengtao.html",
-        "teaser": null
-      },{
         "title": "Chiral filtering in graphene with coupled valleys",
         "excerpt":" ","categories": [],
         "tags": ["Graphene","Quantum field theory"],
@@ -131,7 +125,7 @@ var store = [{
         "url": "/publications/2017-09-08-Rinkel-PRL.html",
         "teaser": null
       },{
-        "title": "Microwave signatures of ℤ<sub>2</sub> and ℤ<sub>2</sub> fractional Josephson effects",
+        "title": "Microwave signatures of ℤ<sub>2</sub> and ℤ<sub>4</sub> fractional Josephson effects",
         "excerpt":" ","categories": [],
         "tags": ["Quasiparticle fractionalization","Topology"],
         "url": "/publications/2019-01-02-PLSL-PRB.html",

@@ -9,7 +9,7 @@ professional:
     image_size: 40%
     excerpt: <ul>
                  <li> I have experience <b> leading all aspects </b> of scientific research, program management, and business development. </li>
-                 <li> Currently I am the <b> tech advocate </b> of QuEra Computing, where I also manage strategic government and partner accounts. </li>
+                 <li> Currently I am the <b> tech advocate </b> of QuEra Computing, where I also manage strategic government relations. </li>
                  <li> I coordinate multi-party research teams at the boundary of academia and industry. </li>
                  <li> I <b>led the design</b> of the first industry-grade course on quantum computing with neutral atoms, with hundreds of trainees. </li>
                  <li> I <b>marketed and developed</b> the user base of the world's first publicly accessible neutral-atom quantum computer.</li>

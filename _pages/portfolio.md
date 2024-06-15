@@ -4,7 +4,6 @@ layout: splash
 permalink: /portfolio/
 collection: portfolio
 
-
 intro: 
   - excerpt: <br> The content below showcases my intellectual production, for which I acknowledge the guiding support of my network of collaborators and mentors.
 

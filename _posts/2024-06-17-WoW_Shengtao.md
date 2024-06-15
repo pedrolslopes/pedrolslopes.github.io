@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Words of Wisdom #1"
-date:   2024-06-18 8:05:54 -0500
+date:   2024-06-17 8:05:54 -0500
 classes: wide
 ---
 
