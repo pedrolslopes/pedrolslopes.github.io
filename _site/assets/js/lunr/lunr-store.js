@@ -29,6 +29,12 @@ var store = [{
         "url": "/outreach/2023-11-03-tqi.html",
         "teaser": null
       },{
+        "title": "Charting Quantum Horizons - A Conversation with Pedro Lopes, Quantum Advocate at QuEra Computing",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/outreach/2024-11-03-dclc.html",
+        "teaser": null
+      },{
         "title": "We are finally starting!",
         "excerpt":"This is it, I can’t believe I am finally starting this! Welcome to “Set Physics to Stun”, my blog on physics, scientific management, and other topics relevant for readers interested in intellectual discourse. My goal is to promote better practices in scientific environments in general, improving inclusiveness, helping all the...","categories": [],
         "tags": [],
@@ -57,6 +63,18 @@ var store = [{
         "excerpt":"A busy week of teaching and preparing for an upcoming trip to Quebec to witness the eclipse left little time for blogging. Nonetheless, I’ve been mulling over some discussion-worthy topics! The different funding mechanisms for science, both in academia and elsewhere, have been on my mind lately. This reminded me...","categories": [],
         "tags": [],
         "url": "/2024/03/31/Philantropy.html",
+        "teaser": null
+      },{
+        "title": "Assessing PhD Assessments",
+        "excerpt":"A (total!) eclipse, travel, and hackathons have slowed down my blogging. That together with, for the first time, being asked to do the technical review of a book for a friend. All relevant experience and service, if anyone ask me! But I am ready to come back to Setting Physics...","categories": [],
+        "tags": [],
+        "url": "/2024/04/21/PhD_assessment.html",
+        "teaser": null
+      },{
+        "title": "Words of Wisdom #1",
+        "excerpt":"Starting a new blog series at Set Physics to Stun! While most of my posts are based on my own experience, observations, or creations in science and scientific management, I wanted to bring in some opinions beyond my biases. So hereby I start “Words of Wisdom”, a blogging series where...","categories": [],
+        "tags": [],
+        "url": "/2024/05/26/WoW_Shengtao.html",
         "teaser": null
       },{
         "title": "Chiral filtering in graphene with coupled valleys",
@@ -195,5 +213,23 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": ["symmetry emergence"],
         "url": "/publications/2023-10-16-Li-PRB.html",
+        "teaser": null
+      },{
+        "title": "Engineering quantum states with neutral atoms",
+        "excerpt":" ","categories": [],
+        "tags": ["quantum computing"],
+        "url": "/publications/2024-04-05-Balewski-arxiv%20copy.html",
+        "teaser": null
+      },{
+        "title": "False vacuum decay and nucleation dynamics in neutral atom systems",
+        "excerpt":" ","categories": [],
+        "tags": ["quantum computing"],
+        "url": "/publications/2024-04-18-Darbha-arxiv_a.html",
+        "teaser": null
+      },{
+        "title": "Long-lived oscillations of false and true vacuum states in neutral atom systems",
+        "excerpt":" ","categories": [],
+        "tags": ["quantum computing"],
+        "url": "/publications/2024-04-18-Darbha-arxiv_b.html",
         "teaser": null
       }]
