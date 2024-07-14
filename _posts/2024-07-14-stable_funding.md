@@ -1,7 +1,7 @@
 ---
 layout: posts
-title:  "When funding ends"
-date:   2024-05-26 8:05:54 -0500
+title:  "Thoughts on stable science funding"
+date:   2024-07-14 8:05:54 -0500
 classes: wide
 ---
 As a research manager, securing stable funding for your group is a critical responsibility. Your team, whether students or professionals, relies on you as the scientific leader to provide a stable environment for creation, skill development, and professional growth. Breaching that trust can be a significant setback.
