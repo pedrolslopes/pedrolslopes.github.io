@@ -77,6 +77,12 @@ var store = [{
         "url": "/2024/06/17/WoW_Shengtao.html",
         "teaser": null
       },{
+        "title": "Thoughts on stable science funding",
+        "excerpt":"As a research manager, securing stable funding for your group is a critical responsibility. Your team, whether students or professionals, relies on you as the scientific leader to provide a stable environment for creation, skill development, and professional growth. Breaching that trust can be a significant setback. A recent article...","categories": [],
+        "tags": [],
+        "url": "/2024/07/14/stable_funding.html",
+        "teaser": null
+      },{
         "title": "Chiral filtering in graphene with coupled valleys",
         "excerpt":" ","categories": [],
         "tags": ["Graphene","Quantum field theory"],
