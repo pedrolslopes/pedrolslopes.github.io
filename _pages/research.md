@@ -8,7 +8,7 @@ classes: wide
 sort_order: reverse
 
 intro: 
-  - excerpt: <br> The bulk of my scientific production revolves around three topics of quantum physics that I approach via analytic, numerical, and experimental approaches.
+  - excerpt: <br> The bulk of my scientific production revolves around three topics of quantum physics that I approach via quantum field theory, algebraic numerics, and experimental approaches.
 
 interest1:
   - image_path: /assets/images/Quantum_Computing.png
