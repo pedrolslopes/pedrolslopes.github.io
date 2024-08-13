@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-04T17:29:44-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pedro Lopes’s</title><subtitle>My professional website and blog. Come here for news and discussions on physics, scientific management and leadership, and sustainable lifestyle.</subtitle><author><name>Pedro LS Lopes</name></author><entry><title type="html">Thoughts on stable science funding</title><link href="http://localhost:4000/2024/07/14/stable_funding.html" rel="alternate" type="text/html" title="Thoughts on stable science funding" /><published>2024-07-14T09:05:54-04:00</published><updated>2024-07-14T09:05:54-04:00</updated><id>http://localhost:4000/2024/07/14/stable_funding</id><content type="html" xml:base="http://localhost:4000/2024/07/14/stable_funding.html"><![CDATA[<p>As a research manager, securing stable funding for your group is a critical responsibility. Your team, whether students or professionals, relies on you as the scientific leader to provide a stable environment for creation, skill development, and professional growth. Breaching that trust can be a significant setback.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-12T21:23:59-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pedro Lopes’s</title><subtitle>My professional website and blog. Come here for news and discussions on physics, scientific management and leadership, and sustainable lifestyle.</subtitle><author><name>Pedro LS Lopes</name></author><entry><title type="html">Cash Flower</title><link href="http://localhost:4000/2024/08/12/cash_flower.html" rel="alternate" type="text/html" title="Cash Flower" /><published>2024-08-12T09:05:54-04:00</published><updated>2024-08-12T09:05:54-04:00</updated><id>http://localhost:4000/2024/08/12/cash_flower</id><content type="html" xml:base="http://localhost:4000/2024/08/12/cash_flower.html"><![CDATA[<p><em>For this one I owe a big thanks to my wife, Marianne, for the support, helping with debugging, and feature suggestions. Hope this will be useful to her one day! I also owe the idea for creating this program to Yuval Boger, “The Superposition Guy”</em></p>
+
+<p>Recently I have written posts on the challenges and subtleties of keeping a healthy funding stream for a scientific team. We have also covered some creative practices and opportunities to mitigate some of the risks involved and challenges identified.</p>
+
+<p>This is my own attempt at contributing something to this cause. Keeping track of a group’s finances can be tricky; being able to forecast one’s funding capacity, measuring opportunities against burning rates, can be the difference between being caught unprepared or stably honoring the trust other researchers put on the team manager. Thus, I introduce the “Cash Flower”, a simple Monte Carlo program to provide financial forecasts for an organization funded by typical means a researcher may encounter. Find the source and installation insructions on <a href="https://github.com/pedrolslopes/Cash_Flower">this repo</a>.</p>
+
+<p>Financial data can be input in four different types of categories:</p>
+
+<ul>
+  <li><strong>Stable</strong>: Constant sources of income or expense (e.g., salaries, bills, IP licenses), characterized by monthly average values and variances.</li>
+  <li><strong>Singles</strong>: One-time revenue or expense events (e.g., rare large sales, purchases).</li>
+  <li><strong>Recurrent</strong>: Repeated cash flows triggered after an initial event (e.g., long-term deals, scholarships, sales or purchase of established products).</li>
+  <li><strong>Project</strong>: Milestone-based cash flows tied to project success and timing (e.g. grants).</li>
+</ul>
+
+<p>Users may flexibly encode data from their different funding streams in the categories above, with pre-determined probabilities of realizing each event, according to preferences, convenience, or mindset. No single right way of doing it.</p>
+
+<p>Given a set of financial data, Cash Flower outputs some traditional data analytics upon estimating several scenarios of success or failure at achieving revenue or expenses. These analytics include, for the moment, monthly revenue/expense reports, an analysis of the accumulated funding in the organization as function of time, and the risk of going negative. Here goes what the generated plots can look like for some example data:</p>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/cash_flower_analysis_example.png" title="Cash Flower Data Analysis">
+          <img src="/assets/images/cash_flower_analysis_example.png" alt="graph" />
+      </a>
+    
+  
+  
+</figure>
+
+<p>This program is open source and all are welcome to contribute to the project. Some of my current ideas for improvement include:</p>
+
+<ul>
+  <li>Better visuals for histogram of monthly expenses and gains.</li>
+  <li>Change data gathering and reading scheme so users can take resources from Excel spreadsheets or Pandas dataframes.</li>
+  <li>Plot categorized data according to the different types of cashflow events, evaluating how important each is at a given time.</li>
+</ul>
+
+<p>Bug reports are also welcome, particularly identifying situations where the program fails!</p>
+
+<p>I hope Cash Flower will help scientific managers and individual contributors alike to better monitor the financial health of their endeavours!</p>
+
+<p><em>Disclaimer: as of the writing of this post, these resources have not yet been tested on realistic scenarios.</em></p>]]></content><author><name>Pedro LS Lopes</name></author><summary type="html"><![CDATA[For this one I owe a big thanks to my wife, Marianne, for the support, helping with debugging, and feature suggestions. Hope this will be useful to her one day! I also owe the idea for creating this program to Yuval Boger, “The Superposition Guy”]]></summary></entry><entry><title type="html">Thoughts on stable science funding</title><link href="http://localhost:4000/2024/07/14/stable_funding.html" rel="alternate" type="text/html" title="Thoughts on stable science funding" /><published>2024-07-14T09:05:54-04:00</published><updated>2024-07-14T09:05:54-04:00</updated><id>http://localhost:4000/2024/07/14/stable_funding</id><content type="html" xml:base="http://localhost:4000/2024/07/14/stable_funding.html"><![CDATA[<p>As a research manager, securing stable funding for your group is a critical responsibility. Your team, whether students or professionals, relies on you as the scientific leader to provide a stable environment for creation, skill development, and professional growth. Breaching that trust can be a significant setback.</p>
 
 <p>A <a href="https://www.nature.com/articles/d41586-024-01570-y?utm_source=Live+Audience&amp;utm_campaign=29096efd03-nature-briefing-daily-20240529&amp;utm_medium=email&amp;utm_term=0_b27a691814-29096efd03-52510728">recent article</a> caught my attention on the topic of “what to do when funding runs dry.” Funding for science can be intermittent if your organization lacks a mechanism for continuous stream support. It often falls on the scientific leader or manager to constantly negotiate or sell the importance of their work. If they actively participate in research and the funding landscape is unpredictable, conflicting priorities – as many scientists dislike the “selling” aspect of the job – may lead to overlooking impending financial threats to the team.</p>
 

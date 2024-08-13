@@ -83,6 +83,12 @@ var store = [{
         "url": "/2024/07/14/stable_funding.html",
         "teaser": null
       },{
+        "title": "Cash Flower",
+        "excerpt":"For this one I owe a big thanks to my wife, Marianne, for the support, helping with debugging, and feature suggestions. Hope this will be useful to her one day! I also owe the idea for creating this program to Yuval Boger, “The Superposition Guy” Recently I have written posts...","categories": [],
+        "tags": [],
+        "url": "/2024/08/12/cash_flower.html",
+        "teaser": null
+      },{
         "title": "Chiral filtering in graphene with coupled valleys",
         "excerpt":" ","categories": [],
         "tags": ["Graphene","Quantum field theory"],
@@ -237,5 +243,11 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": ["quantum computing"],
         "url": "/publications/2024-04-18-Darbha-arxiv_b.html",
+        "teaser": null
+      },{
+        "title": "Large-scale quantum reservoir learning with an analog quantum computer",
+        "excerpt":" ","categories": [],
+        "tags": ["quantum computing"],
+        "url": "/publications/2024-07-02-Kornjaca-QRC.html",
         "teaser": null
       }]

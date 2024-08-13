@@ -13,8 +13,8 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Set Physics to Stun - Pedro Lopes’s</title>
-<meta name="description" content="A blog on physics and all topics related to efficient management of scientific activities">
+<!-- begin _includes/seo.html --><title>Cash Flower - Pedro Lopes’s</title>
+<meta name="description" content="For this one I owe a big thanks to my wife, Marianne, for the support, helping with debugging, and feature suggestions. Hope this will be useful to her one day! I also owe the idea for creating this program to Yuval Boger, “The Superposition Guy”">
 
 
   <meta name="author" content="Pedro LS Lopes">
@@ -26,28 +26,26 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Pedro Lopes's">
-<meta property="og:title" content="Set Physics to Stun">
-<meta property="og:url" content="http://localhost:4000/SPS/">
+<meta property="og:title" content="Cash Flower">
+<meta property="og:url" content="http://localhost:4000/2024/08/12/cash_flower.html">
 
 
-  <meta property="og:description" content="A blog on physics and all topics related to efficient management of scientific activities">
-
-
-
-  <meta property="og:image" content="http://localhost:4000/assets/images/Phaser.png">
-
-
-
-
-
-  <meta property="article:published_time" content="2023-11-27T22:02:20-05:00">
+  <meta property="og:description" content="For this one I owe a big thanks to my wife, Marianne, for the support, helping with debugging, and feature suggestions. Hope this will be useful to her one day! I also owe the idea for creating this program to Yuval Boger, “The Superposition Guy”">
 
 
 
 
 
 
-<link rel="canonical" href="http://localhost:4000/SPS/">
+
+  <meta property="article:published_time" content="2024-08-12T09:05:54-04:00">
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/2024/08/12/cash_flower.html">
 
 
 
@@ -107,7 +105,7 @@ body {font-family: 'Noto Sans';font-size: 20px;}
 
   </head>
 
-  <body class="layout--posts">
+  <body class="layout--posts wide">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -148,40 +146,6 @@ body {font-family: 'Noto Sans';font-size: 20px;}
 
     <div class="initial-content">
       
-  
-
-
-
-
-
-
-
-<div class="page__hero--overlay"
-  style=" background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/Phaser.png');"
->
-  
-    <div class="wrapper">
-      <h1 id="page-title" class="page__title" itemprop="headline">
-        
-          Set Physics to Stun
-
-        
-      </h1>
-      
-        <p class="page__lead">A blog on physics and all topics related to efficient management of scientific activities
-</p>
-      
-      
-
-
-      
-      
-    </div>
-  
-  
-</div>
-
-
 
 
 
@@ -316,7 +280,51 @@ body {font-family: 'Noto Sans';font-size: 20px;}
 
   <div class="archive">
     
+      <h1 id="page-title" class="page__title">Cash Flower</h1>
     
+    <p><em>For this one I owe a big thanks to my wife, Marianne, for the support, helping with debugging, and feature suggestions. Hope this will be useful to her one day! I also owe the idea for creating this program to Yuval Boger, “The Superposition Guy”</em></p>
+
+<p>Recently I have written posts on the challenges and subtleties of keeping a healthy funding stream for a scientific team. We have also covered some creative practices and opportunities to mitigate some of the risks involved and challenges identified.</p>
+
+<p>This is my own attempt at contributing something to this cause. Keeping track of a group’s finances can be tricky; being able to forecast one’s funding capacity, measuring opportunities against burning rates, can be the difference between being caught unprepared or stably honoring the trust other researchers put on the team manager. Thus, I introduce the “Cash Flower”, a simple Monte Carlo program to provide financial forecasts for an organization funded by typical means a researcher may encounter. Find the source and installation insructions on <a href="https://github.com/pedrolslopes/Cash_Flower">this repo</a>.</p>
+
+<p>Financial data can be input in four different types of categories:</p>
+
+<ul>
+  <li><strong>Stable</strong>: Constant sources of income or expense (e.g., salaries, bills, IP licenses), characterized by monthly average values and variances.</li>
+  <li><strong>Singles</strong>: One-time revenue or expense events (e.g., rare large sales, purchases).</li>
+  <li><strong>Recurrent</strong>: Repeated cash flows triggered after an initial event (e.g., long-term deals, scholarships, sales or purchase of established products).</li>
+  <li><strong>Project</strong>: Milestone-based cash flows tied to project success and timing (e.g. grants).</li>
+</ul>
+
+<p>Users may flexibly encode data from their different funding streams in the categories above, with pre-determined probabilities of realizing each event, according to preferences, convenience, or mindset. No single right way of doing it.</p>
+
+<p>Given a set of financial data, Cash Flower outputs some traditional data analytics upon estimating several scenarios of success or failure at achieving revenue or expenses. These analytics include, for the moment, monthly revenue/expense reports, an analysis of the accumulated funding in the organization as function of time, and the risk of going negative. Here goes what the generated plots can look like for some example data:</p>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/cash_flower_analysis_example.png" title="Cash Flower Data Analysis">
+          <img src="/assets/images/cash_flower_analysis_example.png" alt="graph" />
+      </a>
+    
+  
+  
+</figure>
+
+<p>This program is open source and all are welcome to contribute to the project. Some of my current ideas for improvement include:</p>
+
+<ul>
+  <li>Better visuals for histogram of monthly expenses and gains.</li>
+  <li>Change data gathering and reading scheme so users can take resources from Excel spreadsheets or Pandas dataframes.</li>
+  <li>Plot categorized data according to the different types of cashflow events, evaluating how important each is at a given time.</li>
+</ul>
+
+<p>Bug reports are also welcome, particularly identifying situations where the program fails!</p>
+
+<p>I hope Cash Flower will help scientific managers and individual contributors alike to better monitor the financial health of their endeavours!</p>
+
+<p><em>Disclaimer: as of the writing of this post, these resources have not yet been tested on realistic scenarios.</em></p>
 
 
 <ul class="taxonomy__index">
