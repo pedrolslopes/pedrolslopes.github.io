@@ -11,9 +11,6 @@ graph:
     title: "Cash Flower Data Analysis"
 
 ---
-
-_For this one I owe a big thanks to my wife, Marianne, for the support, helping with debugging, and feature suggestions. Hope this will be useful to her one day! I also owe the idea for creating this program to Yuval Boger, "The Superposition Guy"_
-
 Recently I have written posts on the challenges and subtleties of keeping a healthy funding stream for a scientific team. We have also covered some creative practices and opportunities to mitigate some of the risks involved and challenges identified.
 
 This is my own attempt at contributing something to this cause. Keeping track of a group's finances can be tricky; being able to forecast one's funding capacity, measuring opportunities against burning rates, can be the difference between being caught unprepared or stably honoring the trust other researchers put on the team manager. Thus, I introduce the "Cash Flower", a simple Monte Carlo program to provide financial forecasts for an organization funded by typical means a researcher may encounter. Find the source and installation insructions on [this repo](https://github.com/pedrolslopes/Cash_Flower).
@@ -42,3 +39,5 @@ Bug reports are also welcome, particularly identifying situations where the prog
 I hope Cash Flower will help scientific managers and individual contributors alike to better monitor the financial health of their endeavours!
 
 _Disclaimer: as of the writing of this post, these resources have not yet been tested on realistic scenarios._
+
+_For this one I owe a big thanks to my wife, Marianne, for the support, helping with debugging, and feature suggestions. Hope this will be useful to her one day! I also owe the idea for creating this program to Yuval Boger, "The Superposition Guy"._
