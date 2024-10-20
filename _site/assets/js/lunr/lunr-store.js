@@ -84,9 +84,15 @@ var store = [{
         "teaser": null
       },{
         "title": "Cash Flower",
-        "excerpt":"For this one I owe a big thanks to my wife, Marianne, for the support, helping with debugging, and feature suggestions. Hope this will be useful to her one day! I also owe the idea for creating this program to Yuval Boger, “The Superposition Guy” Recently I have written posts...","categories": [],
+        "excerpt":"Recently I have written posts on the challenges and subtleties of keeping a healthy funding stream for a scientific team. We have also covered some creative practices and opportunities to mitigate some of the risks involved and challenges identified. This is my own attempt at contributing something to this cause....","categories": [],
         "tags": [],
         "url": "/2024/08/12/cash_flower.html",
+        "teaser": null
+      },{
+        "title": "Drive",
+        "excerpt":"In my journey to expand my knowledge from physics to effective management practices, I maintain a steady, yet unhurried reading pace. I find the experience enjoyable—much more engaging than some of my fellow scientists might expect. Many books in this field offer fresh, modern insights, often grounded in solid science....","categories": [],
+        "tags": [],
+        "url": "/2024/09/14/Drive.html",
         "teaser": null
       },{
         "title": "Chiral filtering in graphene with coupled valleys",
