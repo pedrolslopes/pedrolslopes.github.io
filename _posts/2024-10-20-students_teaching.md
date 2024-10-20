@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Drive"
+title:  "Effective team training and who should lead it?"
 date:   2024-10-20 8:05:54 -0500
 classes: wide
 ---

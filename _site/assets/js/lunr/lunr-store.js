@@ -95,6 +95,12 @@ var store = [{
         "url": "/2024/09/14/Drive.html",
         "teaser": null
       },{
+        "title": "Effective team training and who should lead it?",
+        "excerpt":"Lazy blogging. I don’t want to reblog a topic someone else just did. So I will just point people to this interesting piece on should students teach? at Condensed Concepts. I think the only perspective I should add is that even in private industry, training is extremely important. Onboarding new...","categories": [],
+        "tags": [],
+        "url": "/2024/10/20/students_teaching.html",
+        "teaser": null
+      },{
         "title": "Chiral filtering in graphene with coupled valleys",
         "excerpt":" ","categories": [],
         "tags": ["Graphene","Quantum field theory"],
