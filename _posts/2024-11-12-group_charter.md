@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Charter your scientific team"
-date:   2024-11-13 8:05:54 -0500
+date:   2024-11-12 8:05:54 -0500
 classes: wide
 ---
 
@@ -29,4 +29,5 @@ The creative, socioeconomic, or cultural value of the engineer or scientist outp
 ##### 3. Sustainability as the scaffold
 Sustained creation and learning requires a healthy body, grit, a diversity of perspectives, and a respectful environment. We welcome all backgrounds and prioritize well-being and community, fostering connections within the team and beyond. This respect for sustainable practice reflects the accountability we have to society as scientists and engineers.
 
- I'd like to acknowledge that this is not the first version of core values for scientific groups I ever thought about, and probably won't be the last. Feedback and comments are welcome on LinkedIn, as always.
+----
+I'd like to acknowledge that this is not the first version of core values for scientific groups I ever thought about, and probably won't be the last. Feedback and comments are welcome on LinkedIn, as always.

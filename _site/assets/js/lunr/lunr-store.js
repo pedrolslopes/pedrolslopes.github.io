@@ -101,6 +101,12 @@ var store = [{
         "url": "/2024/10/20/students_teaching.html",
         "teaser": null
       },{
+        "title": "Charter your scientific team",
+        "excerpt":"Basic project management often begins with a charter—a set of agreements that define the rules and expectations for team collaboration. I believe a team charter can be just as valuable for a scientific group, whether newly formed or well-established. A group charter helps teams avoid conflicts and offers a framework...","categories": [],
+        "tags": [],
+        "url": "/2024/11/12/group_charter.html",
+        "teaser": null
+      },{
         "title": "Chiral filtering in graphene with coupled valleys",
         "excerpt":" ","categories": [],
         "tags": ["Graphene","Quantum field theory"],
