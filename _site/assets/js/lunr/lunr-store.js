@@ -35,6 +35,12 @@ var store = [{
         "url": "/outreach/2024-11-03-dclc.html",
         "teaser": null
       },{
+        "title": "Science Breakthrough Radar - Emerging topic Quantum Computing",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/outreach/2024-11-03-gesda.html",
+        "teaser": null
+      },{
         "title": "We are finally starting!",
         "excerpt":"This is it, I can’t believe I am finally starting this! Welcome to “Set Physics to Stun”, my blog on physics, scientific management, and other topics relevant for readers interested in intellectual discourse. My goal is to promote better practices in scientific environments in general, improving inclusiveness, helping all the...","categories": [],
         "tags": [],
@@ -105,6 +111,12 @@ var store = [{
         "excerpt":"Basic project management often begins with a charter—a set of agreements that define the rules and expectations for team collaboration. I believe a team charter can be just as valuable for a scientific group, whether newly formed or well-established. A group charter helps teams avoid conflicts and offers a framework...","categories": [],
         "tags": [],
         "url": "/2024/11/12/group_charter.html",
+        "teaser": null
+      },{
+        "title": "Pão de Queijo",
+        "excerpt":"Through fall season, Harvard hosts a Science &amp; Cooking course, where science topics relevant for cooking such as soft matter, organic chemistry, heat transport, and diffusion, are discussed. This course is often accompanied by a series of public lectures working as an outreach activity to engage the lay community. In...","categories": [],
+        "tags": [],
+        "url": "/2024/12/15/pao_de_queijo.html",
         "teaser": null
       },{
         "title": "Chiral filtering in graphene with coupled valleys",
