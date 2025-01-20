@@ -122,7 +122,7 @@ var store = [{
         "title": "Words of Wisdom #2",
         "excerpt":"What better way to start the new year than with Words of Wisdom? For the second installment of our blog series featuring interviews with science managers, we welcome Dr. Serge Moore. Serge is the manager of Québec’s Laboratory of Environmental Testing at Environment and Climate Change Canada. He oversees one...","categories": [],
         "tags": [],
-        "url": "/2025/01/01/WoW_Serge.html",
+        "url": "/2025/01/15/WoW_Serge.html",
         "teaser": null
       },{
         "title": "Chiral filtering in graphene with coupled valleys",
