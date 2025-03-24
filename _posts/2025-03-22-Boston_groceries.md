@@ -135,13 +135,15 @@ A curious one involves looking at the seasonality of our consumption of fruits. 
 
 A commonly shared intuition is that buying foodstuffs in larger quantities result in economy. But is that the case? If so, what is the scaling law?
 
-Scatter plotting all our purchases with respect to the corresponding quantities bought (normalized to unitless) gives us direct access to exactly that knowledge!
+I don't hide from anyone my admiration for <a href="https://en.wikipedia.org/wiki/Allometry">allometry</a>, so trying to verify a financial - for the lack of opportunity to do biophysical studies - scaling law was a real temptation. Scatter plotting all our purchases with respect to the corresponding quantities bought (normalized to unitless values) gives us direct access to exactly that knowledge!
 
 {% include gallery id="graph_9" %}{: .align-right style="width: 50%;"}
 
-Indeed, a descending trend is verified on price as function of quantity. A fit showcases that the corresponding scaling law shown for our dataset is $price \sim quantity^{-1.0 \pm 0.1}$! This is an awesome result but bittersweet result. Some of us (me!) were really hoping for a non-linear inverse scaling that favored even lower prices for ever larger quantities. We just got inverse proportionality. Still, it is awesome to see common knowledge verified and quantified!
+Indeed, a descending trend is verified on price as function of quantity. A fit showcases that the corresponding scaling law shown for our dataset is $price \sim quantity^{-1.0 \pm 0.1}$! 
 
 {% include gallery id="graph_10" %}{: .align-right style="width: 50%;"}
+
+This is an awesome but bittersweet result. Some of us (me!) were really hoping for a non-linear inverse scaling that favored even lower prices for ever larger quantities. We just got inverse proportionality. We did a brief analysis separating quantities measured by volume in separate of weight or units, and the scaling laws do vary; but we lack more data to verify trends with more certainty when we categorize like that. In any case, we find it is awesome to see common knowledge verified and quantified!
 
 ### *Final words*
 
