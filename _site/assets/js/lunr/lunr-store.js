@@ -126,9 +126,15 @@ var store = [{
         "teaser": null
       },{
         "title": "Behavior can be learned",
-        "excerpt":"Short post from a big lesson. Recently I was in a conference and me and other scientists were discussing how easy or hard it was to get strong performers in a scientific team depending on different environments. One of our colleagues, well-intentioned, mentioned that his organization didn’t always get the...","categories": [],
+        "excerpt":"Short post inspired by a big lesson. Recently I was in a conference and me and other scientists were discussing how easy or hard it was to get strong performers in a scientific team depending on different environments. One of our colleagues, well-intentioned, mentioned that his organization didn’t always get...","categories": [],
         "tags": [],
         "url": "/2025/02/17/behavior_can_be_learned.html",
+        "teaser": null
+      },{
+        "title": "Boston on a budget",
+        "excerpt":"This post is a long one in the making. I should dedicate it to my wife, as this has been a family project running for years. We will divert from science management for this issue, and talk about grocery management! So a post on data science for everyone! Here is...","categories": [],
+        "tags": [],
+        "url": "/2025/03/22/Boston_groceries.html",
         "teaser": null
       },{
         "title": "Chiral filtering in graphene with coupled valleys",
