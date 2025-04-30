@@ -137,6 +137,12 @@ var store = [{
         "url": "/2025/03/22/Boston_groceries.html",
         "teaser": null
       },{
+        "title": "Dysfunctionality on scientific teams",
+        "excerpt":"Back to book reviews! The backlog is growing! Last year, I read a lot about management, trying to educate myself more on the topic and to connect with the lives of—and challenges faced by—scientists. In September 2024, I posted about the factors driving an individual’s motivation in a scientific team;...","categories": [],
+        "tags": [],
+        "url": "/2025/04/29/team_dysfunctions.html",
+        "teaser": null
+      },{
         "title": "Chiral filtering in graphene with coupled valleys",
         "excerpt":" ","categories": [],
         "tags": ["Graphene","Quantum field theory"],

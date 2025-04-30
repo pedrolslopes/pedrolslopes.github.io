@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-22T13:15:21-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pedro Lopes’s</title><subtitle>My professional website and blog. Come here for news and discussions on physics, scientific management and leadership, and sustainable lifestyle.</subtitle><author><name>Pedro LS Lopes</name></author><entry><title type="html">Boston on a budget</title><link href="http://localhost:4000/2025/03/22/Boston_groceries.html" rel="alternate" type="text/html" title="Boston on a budget" /><published>2025-03-22T10:05:54-03:00</published><updated>2025-03-22T10:05:54-03:00</updated><id>http://localhost:4000/2025/03/22/Boston_groceries</id><content type="html" xml:base="http://localhost:4000/2025/03/22/Boston_groceries.html"><![CDATA[<p>This post is a long one in the making. I should dedicate it to my wife, as this has been a family project running for years. We will divert from science management for this issue, and talk about grocery management! So a post on data science for everyone!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-29T22:33:32-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pedro Lopes’s</title><subtitle>My professional website and blog. Come here for news and discussions on physics, scientific management and leadership, and sustainable lifestyle.</subtitle><author><name>Pedro LS Lopes</name></author><entry><title type="html">Dysfunctionality on scientific teams</title><link href="http://localhost:4000/2025/04/29/team_dysfunctions.html" rel="alternate" type="text/html" title="Dysfunctionality on scientific teams" /><published>2025-04-29T09:05:54-04:00</published><updated>2025-04-29T09:05:54-04:00</updated><id>http://localhost:4000/2025/04/29/team_dysfunctions</id><content type="html" xml:base="http://localhost:4000/2025/04/29/team_dysfunctions.html"><![CDATA[<p>Back to book reviews! The backlog is growing!</p>
+
+<p>Last year, I read a lot about management, trying to educate myself more on the topic and to connect with the lives of—and challenges faced by—scientists. In September 2024, I posted about the factors driving an individual’s motivation in a scientific team; the discussion was framed as a review of the book “<a href="https://www.thriftbooks.com/w/drive-the-surprising-truth-about-what-motivates-us_daniel-h-pink/246588/?resultid=f8f87171-a9f2-404a-9610-3ab7705fcda7#edition=5980628&amp;idiq=3847557">Drive</a>”, by <a href="https://en.wikipedia.org/wiki/Daniel_H._Pink">Daniel H. Pink</a>. This time we will expand the scope and consider what makes a team work well together. The inspiration for this post comes from reading <a href="https://www.thriftbooks.com/w/overcoming-the-five-dysfunctions-of-a-team-a-field-guide-for-leaders-managers-and-facilitators_patrick-lencioni/253041/?resultid=158b6959-06a2-4a80-82e5-775e96c66d1d#edition=4547621&amp;idiq=1654363">The Five Dysfunctions of a Team</a> by <a href="https://en.wikipedia.org/wiki/Patrick_Lencioni">Patrick Lencioni</a>.</p>
+
+<p>The author is a well-known figure in private industry, coaching companies on organizational health and teamwork. He has written several books, many widely acclaimed. So, we should probably start with a disclaimer: the “sociological” theories in the book have found deep appreciation among several leaders and corporations, and have been built upon the author’s empirical experience—but, to my knowledge, they have not been rigorously tested using scientific methods. Still, human experience is quite valuable, and the thoughts in the book definitely got me thinking.</p>
+
+<p>The Five Dysfunctions of a Team is mostly composed of a long story in which the author role-plays (a common practice in business training, I’ve come to learn) characters navigating team conflict within a company. They are somewhat saved—or at least set on a path toward progress—by a new CEO who has mastered the concepts behind team dysfunction. The author then re-describes these ideas in detail. The five dysfunctions are presented in a causal relationship, where each layer serves as a scaffold for the next:</p>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/dysfunctionality_pyramid.png" title="team dysfunctionality pyramid">
+          <img src="/assets/images/dysfunctionality_pyramid.png" alt="graph" />
+      </a>
+    
+  
+  
+</figure>
+
+<p>Again with the disclaimer that this was not presented as a scientifically verified psychological process, I gotta say I can quite relate to this perspective.</p>
+
+<p>Looking at modern science in general, it’s rare for individuals to work entirely alone. They exist, but they don’t represent most of the statistics. In my own scientific collaborations—and from observing those of colleagues—I’ve often seen teams exhibit some degree of dysfunction that can fits the pattern above. Here are some signatures that some may relate to:</p>
+
+<ul>
+  <li><em>invulnerability</em>: defensive behavior when criticism to one’s results - calculations, data, analyses - are raised, lack of attention during appoitments,</li>
+  <li><em>artificial harmony</em>: researchers lower in the hierarchy ceasing to communicate with supervisors; researchers higher in the hierarchy ignoring contact with trainees and direct reports for long periods of time</li>
+  <li><em>ambiguity</em>: extended timelines to produce results, projects that never finish, constantly rescheduled meetings</li>
+  <li><em>low standards</em>: lack of interest in reviewing write-ups, careless attention to one’s own or others’ technical results</li>
+  <li><em>status and ego</em>: pursuit of self-interested endeavors or priorities without transparency; griping; judging</li>
+</ul>
+
+<p>I hope the language above makes it clear that these examples are not biased toward any particular group of scientists: they can occur among trainees and students, managers and supervisors, and in virtually any field of science.</p>
+
+<p>What is the onset of these dysfunctions? The author doesn’t say much about how they begin, and I believe that characterizing early warning signs of dysfunction—or signs that a team is headed down that path—could be very important. In science, I dare say much of this can arise from overcommitment to too many activities. The workload of science managers can be extreme, and the path of individual contributors often resembles a random walk. Haste and pressure can lead to mismanagement and miscommunication. The often present high degree of freedom in scientific environments, without proper management, can also easily lead to ambiguities and individualism.</p>
+
+<p>The author also emphasizes (in a good attempt to sell another of his books) that not all people are capable of being team players, and that paying attention to certain virtues can help in hiring and fostering more productive behaviors. I don’t feel too comfortable to judge what others can or cannot do, but I think I see where the author is coming from, and I guess I like the advice.</p>
+
+<p>On the pathway to solving such dysfunctions, the author highlights the importance of humility (“the most precious virtue and antidote for all sin”), which enables vulnerability and creates the possibility of trust among human beings—who he sees as naturally inclined to self-protection. If the pyramid model above holds, a approach to fix the problem is to erode it from the base—by entering into risky discomfort and building trust.</p>
+
+<p>My backlog of book reviews is getting large. I hope I can make a dent in it. This year I’m moving my reading interests from management to philosophy of science, and it looks like reading will be slower; since the content is much denser, I may post revisions by chapter. In any case, stay tuned for more lessons learned from the literature!</p>]]></content><author><name>Pedro LS Lopes</name></author><summary type="html"><![CDATA[Back to book reviews! The backlog is growing!]]></summary></entry><entry><title type="html">Boston on a budget</title><link href="http://localhost:4000/2025/03/22/Boston_groceries.html" rel="alternate" type="text/html" title="Boston on a budget" /><published>2025-03-22T09:05:54-04:00</published><updated>2025-03-22T09:05:54-04:00</updated><id>http://localhost:4000/2025/03/22/Boston_groceries</id><content type="html" xml:base="http://localhost:4000/2025/03/22/Boston_groceries.html"><![CDATA[<p>This post is a long one in the making. I should dedicate it to my wife, as this has been a family project running for years. We will divert from science management for this issue, and talk about grocery management! So a post on data science for everyone!</p>
 
 <p>Here is a short prelude to a longer story: back in the covid years, my wife and I were living in Vancouver, and dealing with the steep prices of the city on academic salaries. Given we love cooking, for fun (and maybe out of spite as well), we started hacking the city for grocery bargains. We were very successful and, by the time we were about to leave to Boston (our current residence), I told a friend - whose identity I will spare, to not gloat too much! - that we seemed to be spending about $20 bucks a week in groceries for two people. He called me a liar (or just plain wrong). He underestimated my scientific spirit; he didn’t know what he was starting.</p>
 
@@ -127,7 +166,7 @@
 
 <p>A commonly shared intuition is that buying foodstuffs in larger quantities result in economy. But is that the case? If so, what is the scaling law?</p>
 
-<p>Scatter plotting all our purchases with respect to the corresponding quantities bought (normalized to unitless) gives us direct access to exactly that knowledge!</p>
+<p>I don’t hide from anyone my admiration for <a href="https://en.wikipedia.org/wiki/Allometry">allometry</a>, so trying to verify a financial - for the lack of opportunity to do biophysical studies - scaling law was a real temptation. Scatter plotting all our purchases with respect to the corresponding quantities bought (normalized to unitless values) gives us direct access to exactly that knowledge!</p>
 
 <figure class="align-right" style="width: 50%;">
   
@@ -140,7 +179,7 @@
   
 </figure>
 
-<p>Indeed, a descending trend is verified on price as function of quantity. A fit showcases that the corresponding scaling law shown for our dataset is $price \sim quantity^{-1.0 \pm 0.1}$! This is an awesome result but bittersweet result. Some of us (me!) were really hoping for a non-linear inverse scaling that favored even lower prices for ever larger quantities. We just got inverse proportionality. Still, it is awesome to see common knowledge verified and quantified!</p>
+<p>Indeed, a descending trend is verified on price as function of quantity. A fit showcases that the corresponding scaling law shown for our dataset is $price \sim quantity^{-1.0 \pm 0.1}$!</p>
 
 <figure class="align-right" style="width: 50%;">
   
@@ -152,6 +191,8 @@
   
   
 </figure>
+
+<p>This is an awesome but bittersweet result. Some of us (me!) were really hoping for a non-linear inverse scaling that favored even lower prices for ever larger quantities. We just got inverse proportionality. We did a brief analysis separating quantities measured by volume in separate of weight or units, and the scaling laws do vary; but we lack more data to verify trends with more certainty when we categorize like that. In any case, we find it is awesome to see common knowledge verified and quantified!</p>
 
 <h3 id="final-words"><em>Final words</em></h3>
 
@@ -699,26 +740,4 @@ Cassava starch: Chemical modification and its impact on functional properties an
   </li>
 </ol>
 
-<p>Funding science and research will always be challenging, but it is undeniably important work. If mechanisms for stable funding did not exist, research universities would not function as institutions. Engaging with the system is crucial for any maturing scientific leader.</p>]]></content><author><name>Pedro LS Lopes</name></author><summary type="html"><![CDATA[As a research manager, securing stable funding for your group is a critical responsibility. Your team, whether students or professionals, relies on you as the scientific leader to provide a stable environment for creation, skill development, and professional growth. Breaching that trust can be a significant setback.]]></summary></entry><entry><title type="html">Words of Wisdom #1</title><link href="http://localhost:4000/2024/06/17/WoW_Shengtao.html" rel="alternate" type="text/html" title="Words of Wisdom #1" /><published>2024-06-17T09:05:54-04:00</published><updated>2024-06-17T09:05:54-04:00</updated><id>http://localhost:4000/2024/06/17/WoW_Shengtao</id><content type="html" xml:base="http://localhost:4000/2024/06/17/WoW_Shengtao.html"><![CDATA[<p>Starting a new blog series at Set Physics to Stun! While most of my posts are based on my own experience, observations, or creations in science and scientific management, I wanted to bring in some opinions beyond my biases. So hereby I start “Words of Wisdom”, a blogging series where I shortly interview seasoned professionals in the world of science management. I will tap their expertise and bring you their inspiring words to burning questions.</p>
-
-<p>For this first entry, I bring words from my own work colleague Shengtao Wang. Shengtao is a quantum information scientist with a career spanning Singapore, Michigan, and most recently Harvard University in Boston. He is one of QuEra Computing’s first employees and manages a 10+ team of theorists and computer scientists working in algorithms and applications.</p>
-
-<p>Here we go for Shengtao’s words of wisdom:</p>
-
-<p class="notice--warning"><em>SPTS:</em> When it comes to time allocation, what would you say are the main challenges and peculiarities of managing a scientific team?</p>
-
-<p class="notice--info"><em>SW:</em> In a fast-paced environment where priorities are fluid, aligning a team’s priorities and motivations becomes crucial. If you manage to do this effectively, even when delays occur in some projects, you will know that the team’s strong motivation is focused on the highest priorities.</p>
-
-<p class="notice--warning"><em>SPTS:</em> How do you view motivation? What are the key factors that keep a scientific team motivated?</p>
-
-<p class="notice--info"><em>SW:</em> To stay motivated, scientists truly need room for creativity and critical thinking. Discovery holds cultural importance for scientists. I believe it’s crucial for team managers and leaders to secure and respect this space for creativity.</p>
-
-<p class="notice--warning"><em>SPTS:</em> What is the main “danger” or “tripping hazard” a scientific manager may face?</p>
-
-<p class="notice--info"><em>SW:</em> When a scientific leader lacks a strong vision and a clear direction, the team risks becoming mediocre, and their output may be less impactful. On the other hand, team managers and leaders should avoid micromanaging how goals and visions are achieved. Instead, they should allow highly motivated individuals to find their own paths to success.</p>
-
-<p class="notice--warning"><em>SPTS:</em> How do you distinguish the above in an academic vs private environments?</p>
-
-<p class="notice--info"><em>SW:</em> In my view, the industry setting requires considerably more management due to many more competing factors and priorities. Academic labs can thrive on self-organization and adapt naturally to changing research directions. In contrast, in industry settings, it is crucial for individual and team goals to align with the company’s vision and objectives. Consequently, more management and coordination both within and between teams are essential for overall success.</p>
-
-<p>That is it! Thanks Shengtao for your Words of Wisdom! Set Physics to Stun hears you!</p>]]></content><author><name>Pedro LS Lopes</name></author><summary type="html"><![CDATA[Starting a new blog series at Set Physics to Stun! While most of my posts are based on my own experience, observations, or creations in science and scientific management, I wanted to bring in some opinions beyond my biases. So hereby I start “Words of Wisdom”, a blogging series where I shortly interview seasoned professionals in the world of science management. I will tap their expertise and bring you their inspiring words to burning questions.]]></summary></entry></feed>
+<p>Funding science and research will always be challenging, but it is undeniably important work. If mechanisms for stable funding did not exist, research universities would not function as institutions. Engaging with the system is crucial for any maturing scientific leader.</p>]]></content><author><name>Pedro LS Lopes</name></author><summary type="html"><![CDATA[As a research manager, securing stable funding for your group is a critical responsibility. Your team, whether students or professionals, relies on you as the scientific leader to provide a stable environment for creation, skill development, and professional growth. Breaching that trust can be a significant setback.]]></summary></entry></feed>
