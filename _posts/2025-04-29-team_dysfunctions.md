@@ -26,10 +26,10 @@ Again with the disclaimer that this was not presented as a scientifically verifi
 
 Looking at modern science in general, it’s rare for individuals to work entirely alone. They exist, but they don’t represent most of the statistics. In my own scientific collaborations—and from observing those of colleagues—I’ve often seen teams exhibit some degree of dysfunction that can fits the pattern above. Here are some signatures that some may relate to:
 
-- _invulnerability_: defensive behavior when criticism to one's results - calculations, data, analyses - are raised, lack of attention during appoitments,
-- _artificial harmony_: researchers lower in the hierarchy ceasing to communicate with supervisors; researchers higher in the hierarchy ignoring contact with trainees and direct reports for long periods of time
-- _ambiguity_: extended timelines to produce results, projects that never finish, constantly rescheduled meetings 
-- _low standards_: lack of interest in reviewing write-ups, careless attention to one’s own or others' technical results
+- _invulnerability_: defensive behavior when criticism to one's results - calculations, data, analyses - are raised, lack of attention during appointments
+- _artificial harmony_: researchers lower in the hierarchy ceasing to communicate with supervisors; researchers higher in the hierarchy ignoring contact with trainees and direct reports for long periods of time; not communicating mispace of production rate
+- _ambiguity_: extended timelines to produce results, projects that never finish, repeatedly rescheduled meetings, spacing out during meetings and not recording action items
+- _low standards_: lack of interest in reviewing write-ups, careless attention to one’s own or others' technical results, lack of initiative 
 - _status and ego_: pursuit of self-interested endeavors or priorities without transparency; griping; judging
 
 I hope the language above makes it clear that these examples are not biased toward any particular group of scientists: they can occur among trainees and students, managers and supervisors, and in virtually any field of science.
