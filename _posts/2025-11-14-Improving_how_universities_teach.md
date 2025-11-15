@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Improving How Universities Teach"
-date:   2025-11-15 8:05:54 -0500
+date:   2025-11-14 8:05:54 -0500
 classes: wide
 ---
 
