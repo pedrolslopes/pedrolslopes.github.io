@@ -1,4 +1,198 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-29T22:53:35-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pedro Lopes’s</title><subtitle>My professional website and blog. Come here for news and discussions on physics, scientific management and leadership, and sustainable lifestyle.</subtitle><author><name>Pedro LS Lopes</name></author><entry><title type="html">Dysfunctionality on scientific teams</title><link href="http://localhost:4000/2025/04/29/team_dysfunctions.html" rel="alternate" type="text/html" title="Dysfunctionality on scientific teams" /><published>2025-04-29T09:05:54-04:00</published><updated>2025-04-29T09:05:54-04:00</updated><id>http://localhost:4000/2025/04/29/team_dysfunctions</id><content type="html" xml:base="http://localhost:4000/2025/04/29/team_dysfunctions.html"><![CDATA[<p>Back to book reviews! The backlog is growing!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-11-15T14:36:24-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pedro Lopes’s</title><subtitle>My professional website and blog. Come here for news and discussions on physics, scientific management and leadership, and sustainable lifestyle.</subtitle><author><name>Pedro LS Lopes</name></author><entry><title type="html">Improving How Universities Teach</title><link href="http://localhost:4000/2025/11/15/Improving_how_universities_teach.html" rel="alternate" type="text/html" title="Improving How Universities Teach" /><published>2025-11-15T08:05:54-05:00</published><updated>2025-11-15T08:05:54-05:00</updated><id>http://localhost:4000/2025/11/15/Improving_how_universities_teach</id><content type="html" xml:base="http://localhost:4000/2025/11/15/Improving_how_universities_teach.html"><![CDATA[<h2 id="book-review--improving-how-universities-teach-science-carl-wieman">Book Review – <em>Improving How Universities Teach Science</em> (Carl Wieman)</h2>
+
+<p>Been a while since our last book review at <em>Set Physics to Stun</em>! Maybe a bit lazy on my side, but this one is getting reviewed even though I didn’t strictly finish it. The reason is simple: the book is excellent, my wife has now claimed it as her next read, and I am a slow bus reader. So I’ll collect my wins, write down what I got from it, and pass the baton (and the book) on.</p>
+
+<p>The book in question is <a href="https://www.hup.harvard.edu/books/9780674972070"><em>Improving How Universities Teach Science</em></a>, by AMO physicist turned education scientist — and Nobel Prize winner — Carl Wieman.</p>
+
+<hr />
+
+<h3 id="my-history-with-the-wieman-initiative">My history with the Wieman initiative</h3>
+
+<p>My connection to Wieman’s work on science education goes back to my postdoc days at UBC. I was lucky enough to be exposed to a program that trained postdocs and young faculty on modern, research-based teaching methods, offered by UBC’s Center for Teaching and Learning as part of the final years of the <a href="https://cwsei.ubc.ca/">Carl Wieman Science Education Initiative (CWSEI)</a>.</p>
+
+<p>That experience was eye-opening. It showed me:</p>
+
+<ul>
+  <li>Clear, stubborn data that our traditional lecture-based teaching is largely ineffective.</li>
+  <li>How domain experts are usually <em>actually</em> unskilled at transmitting their knowledge efficiently.</li>
+  <li>That teaching can be treated as a research problem: hypothesis, evidence, iteration, improvement.</li>
+</ul>
+
+<p>Reading <em>Improving How Universities Teach Science</em> years later felt a bit like seeing the “director’s commentary” for the initiative that shaped how I think about teaching.</p>
+
+<hr />
+
+<h3 id="what-the-book-is-about">What the book is about</h3>
+
+<p>On the surface, this can be a somewhat dry book: it’s about university structures, funding, departmental politics, and long-term institutional change. But if, like me, you care about:</p>
+
+<ul>
+  <li>how we train future scientists and engineers,</li>
+  <li>how big institutions actually change (or don’t), and</li>
+  <li>how to bring evidence into teaching, not just research,</li>
+</ul>
+
+<p>then it becomes a very rich read. Again, it helped me to have an insider’s context.</p>
+
+<p>Wieman uses UBC and CU Boulder as the main case studies to show how he and his collaborators designed and implemented a large-scale science education initiative to modernize how science and engineering are taught. The book doubles as:</p>
+
+<ul>
+  <li>A post-mortem of a real, well-managed organizational change project in big universities.</li>
+  <li>A practical guide to the administrative inner workings of departments and faculties.</li>
+  <li>A curated entry point into both <strong>management literature</strong> and <strong>evidence-based education research</strong> in the context of scientific environments.</li>
+</ul>
+
+<hr />
+
+<h3 id="why-change-science-teaching-at-all">Why change science teaching at all?</h3>
+
+<p>One of the big-picture frames of the book is historical. Wieman reminds us that university missions have drifted:</p>
+
+<ul>
+  <li>Before WWII, universities were largely teaching-focused, with students as the primary stakeholders.</li>
+  <li>Post-WWII, massive research funding reshaped institutions to prioritize research, with nations and global competitiveness becoming central stakeholders.</li>
+</ul>
+
+<p>Teaching never fully caught up with this shift. In many places, it became something we <em>assume</em> will happen “naturally” if you put clever people with PhDs in front of a classroom.</p>
+
+<p>At the same time, student demographics are changing, funding mechanisms are in flux, and the role of universities in society is being questioned from all directions. Under those conditions, relying on traditional, intuition-based teaching methods is not just inefficient — it’s irresponsible.</p>
+
+<p>The Science Education Initiative (SEI) that Wieman describes sets out to change this, by trying to <strong>change teaching culture</strong>: its values, beliefs, and everyday practices. Crucially, it does this by borrowing from the <em>research</em> culture that scientists already respect.</p>
+
+<hr />
+
+<h3 id="what-made-the-sei-work">What made the SEI work?</h3>
+
+<p>Wieman argues that the SEI’s relative success hinged on a few design choices:</p>
+
+<ul>
+  <li>
+    <p><strong>Driven by faculty, not imposed on them.</strong>
+Departments had to want to participate and had internal champions.</p>
+  </li>
+  <li>
+    <p><strong>Clear measures of success.</strong>
+The initiative emphasized measurable learning outcomes and concrete changes in courses, not just vague “innovation” or “awareness.”</p>
+  </li>
+  <li>
+    <p><strong>Real incentives, both individual and departmental.</strong>
+Incentives were tied to educational outcomes and visible improvements, not just to writing reports or attending workshops.</p>
+  </li>
+</ul>
+
+<p>This is a recurring theme in the book: if you want real change, you need to treat teaching improvement with the same seriousness, resourcing, and rigor that we reserve for research.</p>
+
+<hr />
+
+<h3 id="management-theory-rogers-kotter-and-beyond">Management theory: Rogers, Kotter, and beyond</h3>
+
+<p>One of my favorite aspects of the book is how openly Wieman leans on existing management and change literature, instead of reinventing everything from scratch.</p>
+
+<h4 id="everett-rogers--how-innovation-spreads">Everett Rogers – how innovation spreads</h4>
+
+<p>Wieman uses Everett Rogers’ framework for how innovations are adopted:</p>
+
+<blockquote>
+  <p>knowledge (awareness) → persuasion (learn more) → decision (weigh benefits/costs) → implementation (try it) → confirmation (keep or abandon)</p>
+</blockquote>
+
+<p>If adoption fails at any stage, the later stages never happen. This sounds obvious, but in practice we often try to “train faculty in active learning” without checking whether they’re even past the <em>persuasion</em> stage.</p>
+
+<p>He also discusses the classic categories — <em>innovators, early adopters, early majority, late majority, laggards</em> — and points out their limits for pedagogy. Real faculty members don’t sit neatly in one bucket:</p>
+
+<ul>
+  <li>Someone might be an early adopter of clickers but resistant to changing exams.</li>
+  <li>Others might move painfully slowly at first, then adopt new teaching approaches very broadly once they’re convinced.</li>
+</ul>
+
+<p>It’s a nice reminder that people are more complex than diffusion-of-innovation cartoons.</p>
+
+<h4 id="john-kotter--how-organizations-change">John Kotter – how organizations change</h4>
+
+<p>From John Kotter’s work on organizational change, Wieman borrows several key ideas and puts numbers on them:</p>
+
+<ul>
+  <li>
+    <p><strong>Change needs a one-time, limited-duration infusion of resources.</strong>
+It’s more expensive to <em>change</em> practices and culture than to maintain them later.</p>
+  </li>
+  <li>
+    <p><strong>Funding must match the scale of change.</strong>
+The literature suggests investing around <strong>5–10% of a unit’s annual budget for ~5 years</strong> to meaningfully change culture.</p>
+  </li>
+</ul>
+
+<p>In the SEI case, that translated to something like:</p>
+
+<ul>
+  <li>~$400k per department per year</li>
+  <li>≈ $2M per department over 5 years</li>
+  <li>≈ $10M to transform teaching in 5 departments</li>
+  <li>Affecting ~25–30 regularly offered courses per department</li>
+</ul>
+
+<p>This is <strong>10–100 times larger</strong> than the typical early-2000s grants for “improving teaching”.</p>
+
+<p>The strategy was also selective: change a core majority of departments deeply, and let those become the gravitational center that helps pull the rest of the institution along. Both UBC and CU Boulder ran <strong>competitive internal grant programs</strong> for departments to participate.</p>
+
+<p>If you’ve ever wondered why most “small teaching grants” don’t move the needle much on institutional culture, this book gives a brutally clear answer: they’re simply not at the right scale.</p>
+
+<hr />
+
+<h3 id="science-education-specialists-the-hidden-engine">Science Education Specialists: the hidden engine</h3>
+
+<p>A large and very interesting part of the book is dedicated to <strong>Science Education Specialists (SES)</strong> — a role that didn’t really exist before the SEI.</p>
+
+<p>These are usually domain experts (e.g., physicists, chemists, biologists) with a genuine interest in education, hired specifically to work within departments and courses to:</p>
+
+<ul>
+  <li>help redesign curricula and course materials,</li>
+  <li>collect and analyze data on student learning,</li>
+  <li>coach faculty on evidence-based strategies.</li>
+</ul>
+
+<p>Wieman doesn’t spend endless pages profiling individuals, but he does give a helpful summary of the skills SESs needed and were trained in. It doubles as a great crash course in what “evidence-based teaching” actually entails:</p>
+
+<ul>
+  <li>effect of prior knowledge</li>
+  <li>knowledge organization: expert vs. novice</li>
+  <li>motivation</li>
+  <li>learning and transfer</li>
+  <li>deliberate practice</li>
+  <li>development of self-directed learners</li>
+  <li>learning goals</li>
+  <li>formative assessment</li>
+  <li>memory and retention</li>
+  <li>peer instruction and effective clicker use</li>
+  <li>group work</li>
+  <li>characteristics of expert tutors</li>
+</ul>
+
+<p>If you’re new to this area, that list alone is a powerful pointer map. Many of these topics — especially <strong>motivation</strong>, deliberate practice, and how experts differ from novices — overlap with recurring themes here at <em>Set Physics to Stun</em>, especially when we talk about scientific management and mentoring.</p>
+
+<hr />
+
+<h3 id="why-this-book-matters-even-if-you-dont-run-a-department">Why this book matters (even if you don’t run a department)</h3>
+
+<p>You don’t need to be a dean or a department chair to get value from <em>Improving How Universities Teach Science</em>. I’d particularly recommend it if you are:</p>
+
+<ul>
+  <li>a <strong>faculty member</strong> who wants to improve teaching but is tired of vague advice,</li>
+  <li>a <strong>postdoc or grad student</strong> curious about how teaching reform actually works at scale,</li>
+  <li>a <strong>science manager, program director, or center lead</strong> who thinks about organizational change.</li>
+</ul>
+
+<p>For me, the book serves several roles at once:</p>
+
+<ul>
+  <li>A reminder that teaching improvement is a <em>serious</em> project worth serious resources.</li>
+  <li>A concrete case study of change that respects both <strong>research culture</strong> and <strong>educational evidence</strong>.</li>
+  <li>A source of references and mental models I can bring into my own work as a mentor, collaborator, and occasional agitator for better practices.</li>
+</ul>
+
+<p>So that’s it — a brief tour of the parts of <em>Improving How Universities Teach Science</em> that resonated most with me. I hope this motivates some of you to pick up the book as well (and maybe finish it before your spouse steals it).</p>
+
+<p>If more of us — as mentors, individual contributors, and administrators — start treating teaching with the same rigor and seriousness as we treat research, I’d say Wieman’s project, and this book, will have done their job.</p>]]></content><author><name>Pedro LS Lopes</name></author><summary type="html"><![CDATA[Book Review – Improving How Universities Teach Science (Carl Wieman)]]></summary></entry><entry><title type="html">Dysfunctionality on scientific teams</title><link href="http://localhost:4000/2025/04/29/team_dysfunctions.html" rel="alternate" type="text/html" title="Dysfunctionality on scientific teams" /><published>2025-04-29T09:05:54-04:00</published><updated>2025-04-29T09:05:54-04:00</updated><id>http://localhost:4000/2025/04/29/team_dysfunctions</id><content type="html" xml:base="http://localhost:4000/2025/04/29/team_dysfunctions.html"><![CDATA[<p>Back to book reviews! The backlog is growing!</p>
 
 <p>Last year, I read a lot about management, trying to educate myself more on the topic and to connect with the lives of—and challenges faced by—scientists. In September 2024, I posted about the factors driving an individual’s motivation in a scientific team; the discussion was framed as a review of the book “<a href="https://www.thriftbooks.com/w/drive-the-surprising-truth-about-what-motivates-us_daniel-h-pink/246588/?resultid=f8f87171-a9f2-404a-9610-3ab7705fcda7#edition=5980628&amp;idiq=3847557">Drive</a>”, by <a href="https://en.wikipedia.org/wiki/Daniel_H._Pink">Daniel H. Pink</a>. This time we will expand the scope and consider what makes a team work well together. The inspiration for this post comes from reading <a href="https://www.thriftbooks.com/w/overcoming-the-five-dysfunctions-of-a-team-a-field-guide-for-leaders-managers-and-facilitators_patrick-lencioni/253041/?resultid=158b6959-06a2-4a80-82e5-775e96c66d1d#edition=4547621&amp;idiq=1654363">The Five Dysfunctions of a Team</a> by <a href="https://en.wikipedia.org/wiki/Patrick_Lencioni">Patrick Lencioni</a>.</p>
 
@@ -23,7 +217,7 @@
 
 <ul>
   <li><em>invulnerability</em>: defensive behavior when criticism to one’s results - calculations, data, analyses - are raised, lack of attention during appointments</li>
-  <li><em>artificial harmony</em>: researchers lower in the hierarchy ceasing to communicate with supervisors; researchers higher in the hierarchy ignoring contact with trainees and direct reports for long periods of time</li>
+  <li><em>artificial harmony</em>: researchers lower in the hierarchy ceasing to communicate with supervisors; researchers higher in the hierarchy ignoring contact with trainees and direct reports for long periods of time; not communicating mispace of production rate</li>
   <li><em>ambiguity</em>: extended timelines to produce results, projects that never finish, repeatedly rescheduled meetings, spacing out during meetings and not recording action items</li>
   <li><em>low standards</em>: lack of interest in reviewing write-ups, careless attention to one’s own or others’ technical results, lack of initiative</li>
   <li><em>status and ego</em>: pursuit of self-interested endeavors or priorities without transparency; griping; judging</li>
@@ -702,42 +896,4 @@ Cassava starch: Chemical modification and its impact on functional properties an
 
 <p><em>Disclaimer: as of the writing of this post, these resources have not yet been tested on realistic scenarios.</em></p>
 
-<p><em>For this one I owe a big thanks to my wife, Marianne, for the support, helping with debugging, and feature suggestions. Hope this will be useful to her one day! I also owe the idea for creating this program to Yuval Boger, “The Superposition Guy”.</em></p>]]></content><author><name>Pedro LS Lopes</name></author><summary type="html"><![CDATA[Recently I have written posts on the challenges and subtleties of keeping a healthy funding stream for a scientific team. We have also covered some creative practices and opportunities to mitigate some of the risks involved and challenges identified.]]></summary></entry><entry><title type="html">Thoughts on stable science funding</title><link href="http://localhost:4000/2024/07/14/stable_funding.html" rel="alternate" type="text/html" title="Thoughts on stable science funding" /><published>2024-07-14T09:05:54-04:00</published><updated>2024-07-14T09:05:54-04:00</updated><id>http://localhost:4000/2024/07/14/stable_funding</id><content type="html" xml:base="http://localhost:4000/2024/07/14/stable_funding.html"><![CDATA[<p>As a research manager, securing stable funding for your group is a critical responsibility. Your team, whether students or professionals, relies on you as the scientific leader to provide a stable environment for creation, skill development, and professional growth. Breaching that trust can be a significant setback.</p>
-
-<p>A <a href="https://www.nature.com/articles/d41586-024-01570-y?utm_source=Live+Audience&amp;utm_campaign=29096efd03-nature-briefing-daily-20240529&amp;utm_medium=email&amp;utm_term=0_b27a691814-29096efd03-52510728">recent article</a> caught my attention on the topic of “what to do when funding runs dry.” Funding for science can be intermittent if your organization lacks a mechanism for continuous stream support. It often falls on the scientific leader or manager to constantly negotiate or sell the importance of their work. If they actively participate in research and the funding landscape is unpredictable, conflicting priorities – as many scientists dislike the “selling” aspect of the job – may lead to overlooking impending financial threats to the team.</p>
-
-<p>The article presents several suggestions on how to deal with this reality, some of which I was unaware were possible. In this post, I will focus on those suggestions rather than the statistics on funding difficulties in certain countries. I will expand on ideas mentioned in the article, as well as bring my own suggestions based on my experience and learning from my professional network.</p>
-
-<h3 id="the-spts-9-thoughts-on-how-to-deal-with-intermittent-funding">The SPTS 9 thoughts on how to deal with intermittent funding:</h3>
-
-<ol>
-  <li>
-    <p><strong>Communicate with Program Officers</strong>: If your funding sources are usually governmental grants, talk to your program officers in case of trouble. While they may be demanding on proposal acceptance, their goal is likely the success of science and education. They are there to help you. Challenges in getting funded are not personal.</p>
-  </li>
-  <li>
-    <p><strong>Know your program officers</strong>: while on that point, note that knowing your program officers and vice versa can really help you in understanding their priorities, and them understand details your interests and provide you feedback. So, find opportunities to meet them, for example as mentioned in <a href="https://pedrolslopes.github.io/2024/02/25/Policy_sabbatical.html">my post</a> on sabbaticals in government.</p>
-  </li>
-  <li>
-    <p><strong>Utilize Bridge Grants</strong>: Some institutions offer “bridge grants” – emergency mechanisms to help researchers connect different funding periods in case of trouble, particularly when pivoting to new research directions.</p>
-  </li>
-  <li>
-    <p><strong>Engage with Your Employer</strong>: And on the same flavor as above, your employer (university or otherwise) is not your enemy either. Talk to them – they may have mechanisms in place to help you connect between grants or customer projects.</p>
-  </li>
-  <li>
-    <p><strong>And vice-versa</strong>: Maybe the above is also a tip for employers to think about setting up such mechanisms in place! The “group rejuvenation sabbatical” mentioned in he article sounds like an innovative idea!</p>
-  </li>
-  <li>
-    <p><strong>Diversify Funding Sources</strong>: Hedge your odds by applying to multiple sources of support (different funding agencies, industry relations, or philanthropy (see also my previous post on <a href="https://pedrolslopes.github.io/2024/03/31/Philantropy.html">the latter</a>)). However, be cautious not to let writing too many applications overwhelm you.</p>
-  </li>
-  <li>
-    <p><strong>Plan Ahead</strong>: The article mentions the importance of “Planning Ahead”, and includes some interesting tips on no-cost extensions to spend unused funds. Proper planning helps predict trouble. Run adequate budget analyses for your lab, including your cash runway. Stay tuned for a tool I’m developing to assist with this!</p>
-  </li>
-  <li>
-    <p><strong>Invest in Supply-Chain Autonomy</strong>: Experimentalists tend to struggle more with funding than theorists. Consider investing in your supply-chain autonomy by machining your own parts. While it won’t solve a funding gap, it will be more cost-effective, mitigate risks, boost team confidence, and perhaps lead to entrepreneurial opportunities. Tapping in the open-sourcing community and modern computer-aided design and manufacture can really provide students with meaningful skills for future work.</p>
-  </li>
-  <li>
-    <p><strong>Collaborate and Share Resources</strong>: Team up with other researchers and share resources. Teams may have better odds of getting larger, longer-lasting funds as part of a program. If your curiosity aligns with a funding agency’s mission, mission-oriented programs can also represent good opportunities.</p>
-  </li>
-</ol>
-
-<p>Funding science and research will always be challenging, but it is undeniably important work. If mechanisms for stable funding did not exist, research universities would not function as institutions. Engaging with the system is crucial for any maturing scientific leader.</p>]]></content><author><name>Pedro LS Lopes</name></author><summary type="html"><![CDATA[As a research manager, securing stable funding for your group is a critical responsibility. Your team, whether students or professionals, relies on you as the scientific leader to provide a stable environment for creation, skill development, and professional growth. Breaching that trust can be a significant setback.]]></summary></entry></feed>
+<p><em>For this one I owe a big thanks to my wife, Marianne, for the support, helping with debugging, and feature suggestions. Hope this will be useful to her one day! I also owe the idea for creating this program to Yuval Boger, “The Superposition Guy”.</em></p>]]></content><author><name>Pedro LS Lopes</name></author><summary type="html"><![CDATA[Recently I have written posts on the challenges and subtleties of keeping a healthy funding stream for a scientific team. We have also covered some creative practices and opportunities to mitigate some of the risks involved and challenges identified.]]></summary></entry></feed>

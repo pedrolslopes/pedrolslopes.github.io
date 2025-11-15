@@ -143,6 +143,12 @@ var store = [{
         "url": "/2025/04/29/team_dysfunctions.html",
         "teaser": null
       },{
+        "title": "Improving How Universities Teach",
+        "excerpt":"Book Review – Improving How Universities Teach Science (Carl Wieman) Been a while since our last book review at Set Physics to Stun! Maybe a bit lazy on my side, but this one is getting reviewed even though I didn’t strictly finish it. The reason is simple: the book is...","categories": [],
+        "tags": [],
+        "url": "/2025/11/15/Improving_how_universities_teach.html",
+        "teaser": null
+      },{
         "title": "Chiral filtering in graphene with coupled valleys",
         "excerpt":" ","categories": [],
         "tags": ["Graphene","Quantum field theory"],
